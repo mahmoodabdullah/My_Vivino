@@ -1,0 +1,721 @@
+vintage_id,wine_id,winery,wine_name,vintage_year,wine_type,region,country,rating_avg,rating_count,price,currency,vivino_url
+156848268,6266660,Félix Solís,Mucho Más Tinto,N.V.,Red,Vino de España,Spain,4.1,120553,15.63,USD,https://www.vivino.com/w/6266660
+1469676,21646,Fantini,Edizione Cinque Autoctoni,N.V.,Red,Abruzzo,Italy,4.3,78766,30.2,USD,https://www.vivino.com/w/21646
+182492833,1655,Antinori,Pèppoli Chianti Classico,2025,Red,Chianti Classico,Italy,3.9,72772,31.04,USD,https://www.vivino.com/w/1655
+179571044,22448,Ornellaia,Le Serre Nuove,2024,Red,Bolgheri,Italy,4.3,66223,81.25,USD,https://www.vivino.com/w/22448
+173847458,19265,Produttori del Barbaresco,Barbaresco,2023,Red,Barbaresco,Italy,4.1,59711,43.26,USD,https://www.vivino.com/w/19265
+6401709,2459848,San Marzano,Cinquanta Collezione,N.V.,Red,Vino d'Italia,Italy,4.2,49618,26.84,USD,https://www.vivino.com/w/2459848
+179681807,83596,Tenuta Luce,Lucente,2024,Red,Toscana,Italy,4,46221,43.71,USD,https://www.vivino.com/w/83596
+164942605,1377390,Astrale,Rosso,N.V.,Red,Vino d'Italia,Italy,4.1,44868,15.63,USD,https://www.vivino.com/w/1377390
+173692725,1651,Antinori,Tenuta Tignanello 'Solaia',2023,Red,Toscana,Italy,4.6,41867,437.07,USD,https://www.vivino.com/w/1651
+179743364,60984,Tormaresca,Primitivo Salento Torcicoda,2024,Red,Salento,Italy,4.1,36323,33.06,USD,https://www.vivino.com/w/60984
+179615648,1130130,Fonterutoli,Chianti Classico,2024,Red,Chianti Classico,Italy,3.9,34529,33.51,USD,https://www.vivino.com/w/1130130
+173696829,86868,Travaglini,Gattinara,2023,Red,Gattinara,Italy,4,32554,44.6,USD,https://www.vivino.com/w/86868
+152622676,5445838,Félix Solís,The Guv’nor,N.V.,Red,Valdepeñas,Spain,4.1,27647,15.63,USD,https://www.vivino.com/w/5445838
+180839131,3390935,Masseria La Volpe,1 Uno Primitivo di Manduria,2025,Red,Primitivo di Manduria,Italy,4.2,25745,20.12,USD,https://www.vivino.com/w/3390935
+173779777,2183,Ruffino,Modus Toscana,2023,Red,Toscana,Italy,4,24485,52.22,USD,https://www.vivino.com/w/2183
+179938157,77460,Isole e Olena,Chianti Classico,2024,Red,Chianti Classico,Italy,4,23578,44.04,USD,https://www.vivino.com/w/77460
+179547168,1898084,Notte Rossa,Primitivo di Manduria,2024,Red,Primitivo di Manduria,Italy,3.9,16492,25.1,USD,https://www.vivino.com/w/1898084
+170932577,1169408,Domini Veneti,Amarone della Valpolicella Classico,2022,Red,Amarone della Valpolicella Classico,Italy,4.2,16008,57.04,USD,https://www.vivino.com/w/1169408
+164943169,6139455,Tenuta Ulisse,Limited Edition 10 Vendemmie,N.V.,Red,Montepulciano d'Abruzzo,Italy,4.4,15843,45.39,USD,https://www.vivino.com/w/6139455
+170681830,18441,Fèlsina,Fontalloro,2022,Red,Toscana,Italy,4.2,15561,72.73,USD,https://www.vivino.com/w/18441
+173963804,78760,Umberto Cesari,Liano Sangiovese - Cabernet Sauvignon,2023,Red,Rubicone,Italy,4.1,15362,43.6,USD,https://www.vivino.com/w/78760
+183085842,3839840,Ponte Lungo,Curioso,2025,Red,Toscana,Italy,3.9,15250,17.88,USD,https://www.vivino.com/w/3839840
+182405559,92573,Casale del Giglio,Shiraz Lazio Rosso,2025,Red,Lazio,Italy,3.7,14856,26.22,USD,https://www.vivino.com/w/92573
+173875314,15292,Montevertine,Le Pergole Torte,2023,Red,Toscana,Italy,4.5,14140,422.5,USD,https://www.vivino.com/w/15292
+179975179,4789,Donnafugata,Sedàra,2024,Red,Sicilia,Italy,3.6,14030,25.55,USD,https://www.vivino.com/w/4789
+177544660,20986,Tenuta Castiglioni,Toscana,2023,Red,Toscana,Italy,3.9,12563,30.15,USD,https://www.vivino.com/w/20986
+182835051,97199,Colosi,Nero d'Avola,2025,Red,Terre Siciliane,Italy,3.9,11805,25.1,USD,https://www.vivino.com/w/97199
+171511224,22153,Cotarella,Montiano,2022,Red,Lazio,Italy,4.1,11458,90.78,USD,https://www.vivino.com/w/22153
+180864931,6279,Coltibuono,Chianti Classico,2024,Red,Chianti Classico,Italy,3.7,11306,30.71,USD,https://www.vivino.com/w/6279
+171824948,61064,Prunotto,Barolo Bussia,2022,Red,Barolo,Italy,4.2,10700,107.59,USD,https://www.vivino.com/w/61064
+162010825,7657778,Félix Solís,Kingpin,N.V.,Red,Vino de España,Spain,4,10677,15.63,USD,https://www.vivino.com/w/7657778
+181677223,1292098,Coppo,Barbera d'Asti Camp du Rouss,2024,Red,Barbera d'Asti,Italy,3.9,10586,28.47,USD,https://www.vivino.com/w/1292098
+181019323,5831544,Novantaceppi,Primitivo,2025,Red,Puglia,Italy,3.9,10200,19.61,USD,https://www.vivino.com/w/5831544
+182966226,6513593,Ponte Lungo,Curioso Grand Edizione,2025,Red,Toscana,Italy,4,9990,20.12,USD,https://www.vivino.com/w/6513593
+178824093,1464219,Sophenia,Reserve Malbec,2024,Red,Tupungato,Argentina,3.7,9653,39.56,USD,https://www.vivino.com/w/1464219
+179586252,22902,Banfi,Belnero (Proprietor's Reserve),2024,Red,Toscana,Italy,3.9,9468,34.97,USD,https://www.vivino.com/w/22902
+176756750,77767,Batasiolo,Barbaresco,2022,Red,Barbaresco,Italy,3.9,9385,45.28,USD,https://www.vivino.com/w/77767
+180935391,4273114,Duca di Saragnano,Alchymia Primitivo,2025,Red,Puglia,Italy,4.3,9273,31.16,USD,https://www.vivino.com/w/4273114
+170692904,2035173,Travaglini,Gattinara Tre Vigne,2022,Red,Gattinara,Italy,4.1,9090,54.35,USD,https://www.vivino.com/w/2035173
+171069530,1200104,Umani Ronchi,Cùmaro Conero Riserva,2022,Red,Rosso Conero Riserva,Italy,3.9,8973,38.22,USD,https://www.vivino.com/w/1200104
+177127846,1410748,Bodega Finca Las Moras,Dadá Art 3,2024,Red,San Juan,Argentina,3.6,8925,25.78,USD,https://www.vivino.com/w/1410748
+180575832,1145394,Allegrini,Valpolicella Superiore,2024,Red,Valpolicella,Italy,3.7,8661,33.96,USD,https://www.vivino.com/w/1145394
+182789259,9621,Feudi di San Gregorio,Lacryma Christi Rosso,2025,Red,Vesuvio,Italy,3.6,8285,23.87,USD,https://www.vivino.com/w/9621
+167154204,9240299,Félix Solís,Mucho Más Tinto - Black Edition,N.V.,Red,Vino de España,Spain,4.1,8109,15.63,USD,https://www.vivino.com/w/9240299
+182534496,8792,Cordero di Montezemolo,Nebbiolo Langhe,2025,Red,Langhe,Italy,4,7998,34.07,USD,https://www.vivino.com/w/8792
+179803430,2565516,Tenuta Castelbuono,Ziggurat Montefalco Rosso,2024,Red,Montefalco,Italy,3.9,7992,31.04,USD,https://www.vivino.com/w/2565516
+179627635,54224,Fattoria dei Barbi,Rosso di Montalcino,2024,Red,Rosso di Montalcino,Italy,3.7,7901,29.92,USD,https://www.vivino.com/w/54224
+179719410,21937,Cantele,Riserva Salice Salentino,2024,Red,Salice Salentino,Italy,3.8,7888,26.45,USD,https://www.vivino.com/w/21937
+173683728,1211704,Mezzacorona,Castel Firmian Teroldego Rotaliano,2023,Red,Teroldego Rotaliano,Italy,3.7,7774,24.1,USD,https://www.vivino.com/w/1211704
+182485083,97216,Coppo,Barbera d'Asti L'Avvocata,2025,Red,Barbera d'Asti,Italy,3.7,7761,24.43,USD,https://www.vivino.com/w/97216
+181563657,21936,Cantele,Primitivo,2025,Red,Salento,Italy,3.8,7572,26,USD,https://www.vivino.com/w/21936
+180223672,1563090,Donna Olimpia,Bolgheri Rosso,2024,Red,Bolgheri,Italy,3.9,7570,40.68,USD,https://www.vivino.com/w/1563090
+179700733,15332,Geografico,Contessa di Radda Chianti Classico,2024,Red,Chianti Classico,Italy,3.7,7502,27.12,USD,https://www.vivino.com/w/15332
+174262219,23767,Château Brane-Cantenac,Baron de Brane Margaux,2023,Red,Margaux,France,4,7488,53.01,USD,https://www.vivino.com/w/23767
+176544021,12200870,Félix Solís,Mucho Mas Gold,N.V.,Red,Vino de España,Spain,4.1,7465,19,USD,https://www.vivino.com/w/12200870
+182592583,8180,Allegrini,Valpolicella Classico,2025,Red,Valpolicella,Italy,3.6,7415,24.99,USD,https://www.vivino.com/w/8180
+177919911,60364,Foradori,Granato,2023,Red,Vigneti delle Dolomiti,Italy,4.1,7325,77.22,USD,https://www.vivino.com/w/60364
+170496409,1674523,El Enemigo,Malbec,2022,Red,Mendoza,Argentina,4.3,7118,40.46,USD,https://www.vivino.com/w/1674523
+170981922,75846,Elio Altare,Barolo,2022,Red,Barolo,Italy,4.3,7082,103.1,USD,https://www.vivino.com/w/75846
+167060307,23810,Château d’Aussières,Blason d'Aussières Corbières,2021,Red,Corbières,France,3.7,6864,27.79,USD,https://www.vivino.com/w/23810
+179999260,77764,Batasiolo,Dolcetto d'Alba Bricco di Vergne,2024,Red,Dolcetto d'Alba,Italy,3.6,6775,29.14,USD,https://www.vivino.com/w/77764
+181233492,88011,Bibi Graetz,Soffocone di Vincigliata Toscana,2024,Red,Toscana,Italy,4,6691,50.32,USD,https://www.vivino.com/w/88011
+152205937,5364329,Fantini,Cinque Autoctoni Collection Limited Release,N.V.,Red,Abruzzo,Italy,4.3,6523,33.57,USD,https://www.vivino.com/w/5364329
+181071681,1867960,Notte Rossa,Primitivo Puglia,2025,Red,Puglia,Italy,3.7,6498,24.32,USD,https://www.vivino.com/w/1867960
+183714396,1214807,Cirelli,Montepulciano d'Abruzzo,2025,Red,Montepulciano d'Abruzzo,Italy,3.8,6333,27.46,USD,https://www.vivino.com/w/1214807
+182795577,5821608,Capo Zafferano,Appassimento Rosso,2025,Red,Puglia,Italy,4.1,6310,19,USD,https://www.vivino.com/w/5821608
+176386733,1148885,Antiche Terre Venete,Amarone Della Valpolicella Baorna,2023,Red,Amarone della Valpolicella,Italy,4.2,6265,33.57,USD,https://www.vivino.com/w/1148885
+172652883,1101763,Caiarossa,Pergolaia,2022,Red,Toscana,Italy,3.9,6236,38.78,USD,https://www.vivino.com/w/1101763
+179648393,5145449,Tinazzi,Ca' de' Rocchi Corvè Corvina della Provincia di Verona,2024,Red,Verona,Italy,4.1,6137,21.24,USD,https://www.vivino.com/w/5145449
+171028405,28254,Nino Negri,Le Tense Sassella Valtellina Superiore,2022,Red,Valtellina Superiore,Italy,3.8,5998,37.99,USD,https://www.vivino.com/w/28254
+171024202,1854521,Cantine due Palme,Montecoco Salice Salentino Rosso,2022,Red,Salice Salentino,Italy,3.7,5993,25.89,USD,https://www.vivino.com/w/1854521
+182868848,5123797,Luca Rossi,Maron Appassimento Rosso,2025,Red,Puglia,Italy,4,5900,19,USD,https://www.vivino.com/w/5123797
+174484523,1162863,Roberto Voerzio,Il Cerreto  Barbera d'Alba,2023,Red,Barbera d'Alba,Italy,4,5848,60.52,USD,https://www.vivino.com/w/1162863
+174987502,2698,Cantina Zaccagnini,Chronicon Montepulciano d'Abruzzo,2023,Red,Montepulciano d'Abruzzo,Italy,3.8,5739,25.1,USD,https://www.vivino.com/w/2698
+183048840,1235661,Corte Giara,Valpolicella,2025,Red,Valpolicella,Italy,3.5,5681,22.64,USD,https://www.vivino.com/w/1235661
+174512628,15182,La Spinetta,Vürsù Barbaresco Starderi,2023,Red,Barbaresco,Italy,4.4,5658,170.35,USD,https://www.vivino.com/w/15182
+180341218,1371086,Podere 29,Gelso d'Oro Nero di Troia,2024,Red,Puglia,Italy,4.3,5550,41.35,USD,https://www.vivino.com/w/1371086
+179638563,8998812,Fattoria del Cerro,Silineo Vino Nobile di Montepulciano,2023,Red,Vino Nobile di Montepulciano,Italy,3.9,5475,31.16,USD,https://www.vivino.com/w/8998812
+169041211,9888252,Torre Oria,El Cortez Xo Extra Ordinario,N.V.,Red,Valencia,Spain,4.2,5465,19,USD,https://www.vivino.com/w/9888252
+182780930,1199664,Librandi,Cirò Classico Rosso (Segno),2025,Red,Cirò,Italy,3.4,5450,21.52,USD,https://www.vivino.com/w/1199664
+182658094,13893,Renato Ratti,Dolcetto d'Alba Colombé,2025,Red,Dolcetto d'Alba,Italy,3.6,5422,28.13,USD,https://www.vivino.com/w/13893
+174361296,86557,Michele Chiarlo,Barbaresco Reyna,2023,Red,Barbaresco,Italy,4,5361,59.29,USD,https://www.vivino.com/w/86557
+170770057,1243950,Bosio,Boschi Dei Signori Barolo,2022,Red,Barolo,Italy,3.8,5349,40.46,USD,https://www.vivino.com/w/1243950
+173765137,8058,Cantine due Palme,Canonico Negroamaro Salento,2023,Red,Salento,Italy,3.6,5280,21.63,USD,https://www.vivino.com/w/8058
+164342120,82766,Morisfarms,Avvoltore,2020,Red,Maremma Toscana,Italy,4.2,5266,59.29,USD,https://www.vivino.com/w/82766
+182202151,15291,Montevertine,Pian del Ciampolo,2024,Red,Toscana,Italy,3.9,5265,80.69,USD,https://www.vivino.com/w/15291
+181059666,2561176,Zensa,Nero d'Avola,2024,Red,Terre Siciliane,Italy,3.8,5206,21.18,USD,https://www.vivino.com/w/2561176
+178875272,1471430,Jermann,Red Angel On The Moonlight Pinot Nero,2023,Red,Venezia Giulia,Italy,3.9,5184,41.8,USD,https://www.vivino.com/w/1471430
+171073826,1252559,Château Léoville Las Cases,Le Petit Lion Saint-Julien,2022,Red,Saint-Julien,France,4.1,5151,121.04,USD,https://www.vivino.com/w/1252559
+174199714,1133872,Umberto Cesari,Laurento Sangiovese Riserva,2023,Red,Sangiovese di Romagna,Italy,3.9,5136,35.3,USD,https://www.vivino.com/w/1133872
+160137220,11665,Tedeschi,Capitel Monte Olmi Amarone della Valpolicella Classico Riserva,2019,Red,Amarone della Valpolicella Classico,Italy,4.3,5127,93.02,USD,https://www.vivino.com/w/11665
+174076941,10718,Dievole,Chianti Classico Riserva Novecento,2022,Red,Chianti Classico,Italy,4,5120,45.72,USD,https://www.vivino.com/w/10718
+180421935,94540,Librandi,Gravello Rosso,2024,Red,Val di Neto,Italy,3.9,5060,43.15,USD,https://www.vivino.com/w/94540
+179573413,2864804,Vespa,Il Bruno dei Vespa Primitivo Salento,2024,Red,Salento,Italy,3.9,5024,23.76,USD,https://www.vivino.com/w/2864804
+182798615,9658,Mastroberardino,Lacryma Christi del Vesuvio Rosso,2025,Red,Vesuvio,Italy,3.6,4985,29.03,USD,https://www.vivino.com/w/9658
+179598181,5087020,Masseria Borgo dei Trulli,Saracena Primitivo,2024,Red,Primitivo di Manduria,Italy,4.1,4978,30.82,USD,https://www.vivino.com/w/5087020
+173669104,1159790,Fabiano,Amarone Della Valpolicella Classico,2022,Red,Amarone della Valpolicella Classico,Italy,4.2,4947,46.17,USD,https://www.vivino.com/w/1159790
+4800246,1174493,PavoNero,4 volte 25 - Rosso,N.V.,Red,Toscana,Italy,4.1,4846,16.75,USD,https://www.vivino.com/w/1174493
+182711899,2017119,Tramin,Blauburgunder - Pinot Nero,2025,Red,Südtirol - Alto Adige,Italy,3.6,4846,29.81,USD,https://www.vivino.com/w/2017119
+180000132,1166000,Fattoria del Cerro,Chianti Colli Senesi,2024,Red,Chianti Colli Senesi,Italy,3.5,4757,24.21,USD,https://www.vivino.com/w/1166000
+183079070,6910721,Duca di Saragnano,Puglia Leggermente Appassite,2025,Red,Puglia,Italy,4.1,4715,24.77,USD,https://www.vivino.com/w/6910721
+179538090,28824,Tenuta Rapitalà,Campo Reale Nero d'Avola,2024,Red,Terre Siciliane,Italy,3.6,4638,25.55,USD,https://www.vivino.com/w/28824
+171626238,2288542,Château de Saint-Pey,Saint-Émilion Grand Cru,2022,Red,Saint-Émilion Grand Cru,France,4.1,4623,30.2,USD,https://www.vivino.com/w/2288542
+170554917,2342297,El Enemigo,Cabernet Franc,2022,Red,Mendoza,Argentina,4.3,4622,39.17,USD,https://www.vivino.com/w/2342297
+177513243,82693,Fattoria le Pupille,Morellino di Scansano Riserva,2023,Red,Morellino di Scansano,Italy,4,4553,35.97,USD,https://www.vivino.com/w/82693
+182628929,1123194,Marisa Cuomo,Furore Costa d'Amalfi Rosso,2025,Red,Costa d'Amalfi,Italy,3.9,4539,45.5,USD,https://www.vivino.com/w/1123194
+160250065,92522,Cantine del Notaio,La Firma Aglianico del Vulture,2019,Red,Aglianico del Vulture,Italy,4,4538,48.53,USD,https://www.vivino.com/w/92522
+179626102,8568338,Quinta de São Sebastião,Q.S.S. Rare Tinto,2024,Red,Lisboa,Portugal,3.9,4526,22.64,USD,https://www.vivino.com/w/8568338
+182872896,1525768,Mandrarossa,Timperosse,2025,Red,Terre Siciliane,Italy,3.7,4505,28.35,USD,https://www.vivino.com/w/1525768
+182772092,6696813,Borgo del Mandorlo,Appassimento Puglia Rosso,2025,Red,Puglia,Italy,4.1,4489,24.77,USD,https://www.vivino.com/w/6696813
+183154991,3298660,Cantine Pellegrino,Tareni del Duca Nero d'Avola,2025,Red,Terre Siciliane,Italy,3.6,4475,24.32,USD,https://www.vivino.com/w/3298660
+182765834,1168722,Fabiano,Valpolicella Classico Superiore Ripasso,2024,Red,Valpolicella Ripasso Classico,Italy,3.9,4473,30.37,USD,https://www.vivino.com/w/1168722
+180516667,6195,Carpineto,Rosso di Montepulciano,2024,Red,Rosso di Montepulciano,Italy,3.6,4463,25.44,USD,https://www.vivino.com/w/6195
+172660991,1177851,Castello di Bossi,Chianti Classico Riserva Berardo,2022,Red,Chianti Classico,Italy,4,4447,60.52,USD,https://www.vivino.com/w/1177851
+182424694,7356508,Cantine Leonardo da Vinci,Uve portate a Cesena,2025,Red,Romagna,Italy,4.2,4393,27.12,USD,https://www.vivino.com/w/7356508
+182778963,1176419,Bonpas,Grande Réserve des Challières Ventoux,2025,Red,Ventoux,France,3.7,4384,24.1,USD,https://www.vivino.com/w/1176419
+172099388,1208,Avignonesi,Grandi Annate Sangiovese,2021,Red,Toscana,Italy,4.3,4373,130,USD,https://www.vivino.com/w/1208
+179658306,1672,La Braccesca,Sabazio,2024,Red,Rosso di Montepulciano,Italy,3.6,4317,24.99,USD,https://www.vivino.com/w/1672
+182489027,5419918,Masseria Borgo dei Trulli,Negroamaro,2025,Red,Salento,Italy,4,4317,20.51,USD,https://www.vivino.com/w/5419918
+180405782,10057847,Quinta de São Sebastião,Janela Branca Special Selection,2024,Red,Lisboa,Portugal,3.8,4306,20.62,USD,https://www.vivino.com/w/10057847
+154618477,5722875,Félix Solís,Mucho Más Blanco,N.V.,White,Castilla,Spain,4,35087,15.63,USD,https://www.vivino.com/w/5722875
+145913376,4757347,Fonte Pequena,Maré Alta,N.V.,White,Vinho Verde,Portugal,4.3,31732,15.63,USD,https://www.vivino.com/w/4757347
+182787527,1210421,Jeff Carrel,Morillon Blanc,2025,White,Vin de France,France,4.1,12498,21.24,USD,https://www.vivino.com/w/1210421
+179692085,4787,Donnafugata,La Fuga Chardonnay Contessa Entellina,2025,White,Contessa Entellina,Italy,3.8,10819,30.15,USD,https://www.vivino.com/w/4787
+179549464,12618329,Montes,Classic Series / Reserva Sauvignon Blanc,2025,White,Central Valley,Chile,3.6,9818,22.97,USD,https://www.vivino.com/w/12618329
+180725484,4388933,Pasqua Vigneti e Cantine,PassioneSentimento Bianco,2025,White,Veneto,Italy,4,9298,22.86,USD,https://www.vivino.com/w/4388933
+179720484,2255730,Suavia,Monte Carbonare,2024,White,Soave Classico,Italy,4,8957,29.08,USD,https://www.vivino.com/w/2255730
+182872219,1641769,Poggio le Volpi,Donnaluce,2025,White,Lazio,Italy,4.1,8864,27.68,USD,https://www.vivino.com/w/1641769
+180455341,61014,Tormaresca,Chardonnay Castel del Monte Pietrabianca,2025,White,Castel del Monte,Italy,4,8632,39.11,USD,https://www.vivino.com/w/61014
+183078906,10107,St. Michael-Eppan,Sanct Valentin Gewürztraminer,2025,White,Südtirol - Alto Adige,Italy,4.2,8146,41.41,USD,https://www.vivino.com/w/10107
+179549390,15099,Livio Felluga,Sauvignon,2025,White,Collio,Italy,4,7417,38.55,USD,https://www.vivino.com/w/15099
+179775129,1117149,Simonnet-Febvre,Chablis,2024,White,Chablis,France,3.8,6755,52.56,USD,https://www.vivino.com/w/1117149
+182973816,1215948,Belguardo,Vermentino Bianco Toscana,2025,White,Toscana,Italy,3.8,6570,27.01,USD,https://www.vivino.com/w/1215948
+182726235,1250389,Vivanco,Rioja Blanco,2025,White,Rioja,Spain,3.7,6239,19.39,USD,https://www.vivino.com/w/1250389
+181028857,9270,Mastroberardino,Falanghina del Sannio,2025,White,Sannio,Italy,3.6,6209,24.21,USD,https://www.vivino.com/w/9270
+176881831,1135702,Belisario,Cambrugiano Verdicchio di Matelica Riserva,2023,White,Verdicchio di Matelica Riserva,Italy,4,6126,29.7,USD,https://www.vivino.com/w/1135702
+182565798,1178269,Diemersdal,Sauvignon Blanc,2026,White,Durbanville,South Africa,3.8,5958,28.91,USD,https://www.vivino.com/w/1178269
+183081942,7805159,Tinazzi,Coresei Pinot Grigio,2025,White,delle Venezie,Italy,4,5667,17.88,USD,https://www.vivino.com/w/7805159
+180725296,1488357,Villa Folini,Ribolla Gialla,2025,White,Friuli-Venezia Giulia,Italy,3.5,5610,25.1,USD,https://www.vivino.com/w/1488357
+179972524,10108,St. Michael-Eppan,Sanct Valentin Pinot Grigio,2024,White,Südtirol - Alto Adige,Italy,4.2,5480,41.41,USD,https://www.vivino.com/w/10108
+162402581,7773028,Félix Solís,Fitzroy Bay Sauvignon Blanc,N.V.,White,Marlborough,New Zealand,4.1,5248,19,USD,https://www.vivino.com/w/7773028
+183614538,1180742,Argiolas,Iselis Bianco,2025,White,Nasco di Cagliari,Italy,4.1,5016,33.4,USD,https://www.vivino.com/w/1180742
+182525892,1321427,Cantina Zaccagnini,Il Bianco di Ciccio (Tralcetto),2025,White,Abruzzo,Italy,3.7,5014,21.18,USD,https://www.vivino.com/w/1321427
+182543198,2196179,di Lenardo,Pinot Grigio (Monovitigno),2025,White,Venezia Giulia,Italy,3.7,4765,23.31,USD,https://www.vivino.com/w/2196179
+182905266,1173926,Michele Chiarlo,Le Marne Gavi,2025,White,Gavi,Italy,3.8,4708,29.81,USD,https://www.vivino.com/w/1173926
+180088432,3769003,Cantine Pellegrino,Gibelè Terre Siciliane,2025,White,Terre Siciliane,Italy,4.1,4572,24.99,USD,https://www.vivino.com/w/3769003
+177530962,1525584,Bodegas Martín Códax,Rías Baixas Albariño Lias,2023,White,Rías Baixas,Spain,3.9,4365,36.87,USD,https://www.vivino.com/w/1525584
+179814454,6981695,Ca' del Bosco,Corte del Lupo Curtefranca Bianco,2025,White,Curtefranca,Italy,3.8,4268,49.09,USD,https://www.vivino.com/w/6981695
+180301223,1180743,Argiolas,S'Elegas Nuragus di Cagliari,2025,White,Nuragus di Cagliari,Italy,3.7,4228,24.32,USD,https://www.vivino.com/w/1180743
+179363721,1550738,Schiopetto,Collio Friulano,2024,White,Collio,Italy,3.9,4219,35.86,USD,https://www.vivino.com/w/1550738
+180281930,1714205,Piero Mancini,Cucaione Vermentino di Gallura Superiore,2025,White,Vermentino di Gallura,Italy,3.7,4149,25.1,USD,https://www.vivino.com/w/1714205
+181196732,1150137,Librandi,Cirò Bianco (Segno),2025,White,Cirò,Italy,3.7,4143,21.52,USD,https://www.vivino.com/w/1150137
+179664298,2996,Louis Jadot,Puligny-Montrachet,2024,White,Puligny-Montrachet,France,4.3,4073,175.95,USD,https://www.vivino.com/w/2996
+182860275,1308008,Erste+Neue,Gewürztraminer,2025,White,Südtirol - Alto Adige,Italy,3.9,3994,27.35,USD,https://www.vivino.com/w/1308008
+182730185,1591170,Abbazia di Novacella (Stiftskellerei Neustift),Gewürztraminer,2025,White,Südtirol - Alto Adige,Italy,4,3985,28.69,USD,https://www.vivino.com/w/1591170
+182769412,14661,Fantinel,Pinot Grigio Borgo Tesis,2025,White,Friuli Grave,Italy,3.7,3976,24.88,USD,https://www.vivino.com/w/14661
+180276277,5568937,Nativ,Suadens Campania Bianco,2025,White,Campania,Italy,4.1,3959,24.6,USD,https://www.vivino.com/w/5568937
+182701423,1168122,Domaine de Vauroux,Chablis,2025,White,Chablis,France,3.8,3912,36.87,USD,https://www.vivino.com/w/1168122
+180118304,1631655,Feudi di San Gregorio,Falanghina Serrocielo,2025,White,Falanghina del Sannio,Italy,3.8,3910,26.11,USD,https://www.vivino.com/w/1631655
+179733541,1230289,Olivier Tricon,Chablis,2024,White,Chablis,France,4,3870,37.99,USD,https://www.vivino.com/w/1230289
+179694191,1882977,San Marzano,Talò Verdeca,2025,White,Puglia,Italy,3.9,3850,25.33,USD,https://www.vivino.com/w/1882977
+180730894,1574522,Feudi di San Gregorio,Lacryma Christi Bianco,2025,White,Vesuvio,Italy,3.7,3814,23.42,USD,https://www.vivino.com/w/1574522
+182932103,92946,Colli di Lapio di Romano Clelia,Fiano di Avellino,2025,White,Fiano de Avellino,Italy,4,3790,39.56,USD,https://www.vivino.com/w/92946
+180184574,1251812,Cantina Bozen / Kellerei Bozen,Sauvignon,2025,White,Südtirol - Alto Adige,Italy,3.8,3758,28.47,USD,https://www.vivino.com/w/1251812
+179545400,79972,Massolino,Chardonnay Langhe,2024,White,Langhe,Italy,3.9,3750,31.04,USD,https://www.vivino.com/w/79972
+181699678,9246,Mastroberardino,Fiano Di Avellino Radici,2025,White,Fiano de Avellino,Italy,3.8,3735,31.16,USD,https://www.vivino.com/w/9246
+182521032,21984,Masi,Levarie Soave Classico,2025,White,Soave Classico,Italy,3.4,3734,23.09,USD,https://www.vivino.com/w/21984
+180703112,1546944,Planeta,Eruzione 1614 Carricante,2024,White,Sicilia,Italy,3.9,3718,39.11,USD,https://www.vivino.com/w/1546944
+180693894,86226,Lis Neris,Venezia Giulia Pinot Grigio,2024,White,Venezia Giulia,Italy,3.9,3628,36.09,USD,https://www.vivino.com/w/86226
+180780697,82707,Firriato,Santagostino Baglio Sorìa White,2025,White,Terre Siciliane,Italy,3.7,3619,30.26,USD,https://www.vivino.com/w/82707
+179996176,1101192,Cabreo,La Pietra Chardonnay,2024,White,Toscana,Italy,4.1,3605,51.66,USD,https://www.vivino.com/w/1101192
+181227139,9659,Mastroberardino,Lacryma Christi Del Vesuvio Bianco,2025,White,Vesuvio,Italy,3.7,3603,28.35,USD,https://www.vivino.com/w/9659
+182972798,1224876,Torre dei Beati,Giocheremo Con i Fiori Pecorino,2025,White,Abruzzo,Italy,3.9,3587,29.03,USD,https://www.vivino.com/w/1224876
+182697863,1740990,Cantina La-Vis,Gewürztraminer,2025,White,Trentino,Italy,4,3568,28.47,USD,https://www.vivino.com/w/1740990
+183388556,88007,Bibi Graetz,Toscana Casamatta Bianco,2025,White,Toscana,Italy,3.5,3461,37.66,USD,https://www.vivino.com/w/88007
+181031138,97228,Coppo,Chardonnay Piemonte  Monteriolo,2024,White,Piemonte,Italy,4.2,3452,80.13,USD,https://www.vivino.com/w/97228
+181296391,1128950,Köfererhof,Kerner,2025,White,Valle Isarco,Italy,4,3438,33.4,USD,https://www.vivino.com/w/1128950
+180247379,15093,Livio Felluga,Illivio,2024,White,Colli Orientali del Friuli,Italy,4.1,3384,50.77,USD,https://www.vivino.com/w/15093
+182516017,96837,Nigl,Freiheit Grüner Veltliner,2025,White,Kremstal,Austria,3.8,3378,42.47,USD,https://www.vivino.com/w/96837
+180632632,92942,Abbazia di Novacella (Stiftskellerei Neustift),Sylvaner,2025,White,Südtirol - Alto Adige,Italy,3.8,3355,27.57,USD,https://www.vivino.com/w/92942
+180409655,82618,Tramin,Unterebner Pinot Grigio,2024,White,Südtirol - Alto Adige,Italy,4.1,3328,44.94,USD,https://www.vivino.com/w/82618
+180132374,1478565,Tramin,T Cuvée Bianco,2025,White,Südtirol - Alto Adige,Italy,3.8,3318,23.2,USD,https://www.vivino.com/w/1478565
+181003382,1205605,Mastroberardino,Nova Serra Greco di Tufo,2025,White,Greco di Tufo,Italy,3.8,3295,29.03,USD,https://www.vivino.com/w/1205605
+180028012,3446486,Masi,Passo Blanco,2025,White,Uco Valley,Argentina,3.6,3257,23.65,USD,https://www.vivino.com/w/3446486
+181367708,1145850,Lunae,Vermentino (Etichetta Grigia/Grey Label),2025,White,Colli di Luni,Italy,3.8,3230,27.35,USD,https://www.vivino.com/w/1145850
+180017347,1167370,Kellerei Eisacktal - Cantina Valle Isarco,Sylvaner,2025,White,Südtirol - Alto Adige,Italy,3.8,3226,31.04,USD,https://www.vivino.com/w/1167370
+180161741,86227,Lis Neris,Sauvignon Blanc,2024,White,Venezia Giulia,Italy,3.9,3220,33.28,USD,https://www.vivino.com/w/86227
+174871993,1542998,Joseph Drouhin,Chassagne-Montrachet Blanc,2023,White,Chassagne-Montrachet,France,4.2,3206,145.58,USD,https://www.vivino.com/w/1542998
+182031972,97197,Colosi,Salina Bianco,2025,White,Salina,Italy,4,3202,27.01,USD,https://www.vivino.com/w/97197
+181266021,9825,J. Hofstätter,de Vite,2025,White,Vigneti delle Dolomiti,Italy,3.9,3196,27.57,USD,https://www.vivino.com/w/9825
+177076848,1445969,Damijan Podversic,Kaplja,2021,White,Friuli-Venezia Giulia,Italy,4.1,3151,60.41,USD,https://www.vivino.com/w/1445969
+175059791,22924,Banfi,Centine Bianco,2023,White,Toscana,Italy,3.7,3112,25.22,USD,https://www.vivino.com/w/22924
+179957425,22924,Banfi,Centine Bianco,2024,White,Toscana,Italy,3.7,3112,25.22,USD,https://www.vivino.com/w/22924
+181079694,1180984,Bastianich,Orsone Sauvignon,2025,White,Colli Orientali del Friuli,Italy,3.9,3111,29.03,USD,https://www.vivino.com/w/1180984
+179667537,77854,Pala,Stellato Vermentino,2024,White,Vermentino di Sardegna,Italy,3.9,3077,42.92,USD,https://www.vivino.com/w/77854
+181156277,5959790,Feudo Maccari,Olli,2025,White,Sicilia,Italy,3.8,3048,28.35,USD,https://www.vivino.com/w/5959790
+180989099,6534862,El Castilla,Viura - Chardonnay,2025,White,Vino de España,Spain,4,3039,16.75,USD,https://www.vivino.com/w/6534862
+180134618,23864,Terredora,Fiano di Avellino,2024,White,Fiano de Avellino,Italy,3.8,3013,30.93,USD,https://www.vivino.com/w/23864
+174334488,4788,Donnafugata,Contessa Entellina Chiarandà,2023,White,Contessa Entellina,Italy,4.1,2996,49.76,USD,https://www.vivino.com/w/4788
+179882729,1727455,Santadi,Cala Silente Vermentino di Sardegna,2025,White,Vermentino di Sardegna,Italy,3.7,2977,26.56,USD,https://www.vivino.com/w/1727455
+180306771,1239905,Capichera,Vermentino Isola dei Nuraghi,2024,White,Isola dei Nuraghi,Italy,4.2,2972,59.29,USD,https://www.vivino.com/w/1239905
+181487970,5657950,Planeta,Terebinto Grillo,2025,White,Terre Siciliane,Italy,3.8,2971,25.66,USD,https://www.vivino.com/w/5657950
+182956134,5432,Alois Lageder,Gewürztraminer,2025,White,Südtirol - Alto Adige,Italy,3.8,2941,28.24,USD,https://www.vivino.com/w/5432
+183038339,2500065,Tenuta San Francesco,Tramonti Costa d'Amalfi Bianco,2025,White,Costa d'Amalfi,Italy,3.8,2937,37.32,USD,https://www.vivino.com/w/2500065
+182684250,1180252,Fattoria le Pupille,Poggio Argentato Bianco,2025,White,Toscana,Italy,3.8,2933,28.47,USD,https://www.vivino.com/w/1180252
+180075718,1518010,St. Michael-Eppan,Sanct Valentin Weissburgunder (Pinot Bianco),2024,White,Südtirol - Alto Adige,Italy,4,2813,48.08,USD,https://www.vivino.com/w/1518010
+182911946,1103275,André Vatan,Sancerre Les Charmes,2025,White,Sancerre,France,3.9,2790,46.73,USD,https://www.vivino.com/w/1103275
+177321498,2619457,Ottella,Molceo Lugana Riserva,2023,White,Lugana,Italy,4.2,2769,42.47,USD,https://www.vivino.com/w/2619457
+183033397,1313656,Livon,Pinot Grigio,2025,White,Collio,Italy,3.8,2714,25.1,USD,https://www.vivino.com/w/1313656
+180134617,6314762,Terredora,Corte di Giso Irpinia Falanghina,2024,White,Irpinia,Italy,3.9,2701,31.16,USD,https://www.vivino.com/w/6314762
+180007030,1611385,Quintodecimo,Via del Campo Falanghina,2025,White,Irpinia,Italy,4.2,2689,57.16,USD,https://www.vivino.com/w/1611385
+173995165,10993,Olivier Leflaive,Chablis 'Les Deux Rives',2023,White,Chablis,France,3.9,2673,76.21,USD,https://www.vivino.com/w/10993
+178588434,18114,Bodegas Martín Códax,Rías Baixas Albariño Organistrum,2023,White,Rías Baixas,Spain,4,2663,38.89,USD,https://www.vivino.com/w/18114
+183031197,2193,Ruffino,Libaio Chardonnay,2025,White,Toscana,Italy,3.6,2659,26.45,USD,https://www.vivino.com/w/2193
+182962591,1182311,Cà Montini,Terre di Valfredda Pinot Grigio,2025,White,Trentino,Italy,3.8,2649,26,USD,https://www.vivino.com/w/1182311
+179470167,91462,Anselmi,Capitel Croce,2024,White,Veneto,Italy,3.9,2642,39.67,USD,https://www.vivino.com/w/91462
+182417433,2125396,Girlan,Aimè Gewürztraminer,2025,White,Südtirol - Alto Adige,Italy,4,2641,28.47,USD,https://www.vivino.com/w/2125396
+181294817,81938,Kellerei Eisacktal - Cantina Valle Isarco,Aristos Kerner,2025,White,Südtirol - Alto Adige,Italy,4,2627,37.54,USD,https://www.vivino.com/w/81938
+181423100,1210531,Venica & Venica,Ronco delle Cime Friulano,2025,White,Collio,Italy,4,2622,50.77,USD,https://www.vivino.com/w/1210531
+183165012,2318066,Weingut Dr. Fischer,Riesling Trocken,2025,White,Mosel,Germany,3.7,2542,28.47,USD,https://www.vivino.com/w/2318066
+179776846,2094233,Russiz Superiore,Sauvignon Collio,2025,White,Collio,Italy,4,2506,38.44,USD,https://www.vivino.com/w/2094233
+179772814,77782,Batasiolo,Roero Arneis,2025,White,Roero,Italy,3.7,2505,28.35,USD,https://www.vivino.com/w/77782
+180876967,1692340,Bastianich,Orsone Ribolla Gialla,2025,White,Colli Orientali del Friuli,Italy,3.5,2499,29.03,USD,https://www.vivino.com/w/1692340
+176776487,2628,Familia Torres,Viña Esmeralda,2024,White,Penedès,Spain,4,2473,23.2,USD,https://www.vivino.com/w/2628
+182360586,1496861,Cormòns,Ribolla Gialla Collio,2025,White,Collio,Italy,3.6,2450,28.47,USD,https://www.vivino.com/w/1496861
+182808721,1391755,Abbazia di Novacella (Stiftskellerei Neustift),Pinot Grigio,2025,White,Südtirol - Alto Adige,Italy,3.9,2394,30.6,USD,https://www.vivino.com/w/1391755
+180293345,2099757,Kellerei Eisacktal - Cantina Valle Isarco,Grüner Veltliner,2025,White,Südtirol - Alto Adige,Italy,3.7,2372,27.68,USD,https://www.vivino.com/w/2099757
+182905293,2634512,La Scolca,Gavi Villa Scolca,2025,White,Gavi,Italy,3.8,2349,30.26,USD,https://www.vivino.com/w/2634512
+179695831,1117147,Simonnet-Febvre,Petit Chablis,2024,White,Petit Chablis,France,3.8,2344,41.8,USD,https://www.vivino.com/w/1117147
+178667432,2115482,Damijan Podversic,Nekaj,2021,White,Collio,Italy,4.1,2324,70.6,USD,https://www.vivino.com/w/2115482
+177570575,5092,Feudi di San Gregorio,Campanaro,2023,White,Fiano de Avellino,Italy,3.9,2317,41.69,USD,https://www.vivino.com/w/5092
+179711412,1252733,Volpe Pasini,Ribolla Gialla,2025,White,Venezia Giulia,Italy,3.6,2301,25.89,USD,https://www.vivino.com/w/1252733
+179945535,11190,Colterenzio (Schreckbichl),Prail Sauvignon,2025,White,Südtirol - Alto Adige,Italy,3.9,2283,28.58,USD,https://www.vivino.com/w/11190
+180087176,3588803,Marchesi di Barolo,Bric Amel Langhe,2025,White,Langhe,Italy,3.8,2269,26.78,USD,https://www.vivino.com/w/3588803
+181224217,1916088,Capichera,Lintóri Vermentino di Sardegna,2025,White,Vermentino di Sardegna,Italy,3.9,2233,30.71,USD,https://www.vivino.com/w/1916088
+183506308,11328187,Levitation,Viura - Verdejo,2025,White,Castilla,Spain,4.2,2222,16.75,USD,https://www.vivino.com/w/11328187
+180398758,1208298,Anselmi,Capitel Foscarino,2024,White,Veneto,Italy,3.9,2201,36.65,USD,https://www.vivino.com/w/1208298
+182722278,10868634,Barbanera,InBianco Celebration Sangiovese,2025,White,Toscana,Italy,4,2201,24.77,USD,https://www.vivino.com/w/10868634
+182905282,1736793,Tenuta di Nozzole,Chardonnay Toscana Le Bruniche,2025,White,Toscana,Italy,3.8,2150,30.03,USD,https://www.vivino.com/w/1736793
+163988261,8254797,Félix Solís,The Guv'nor Blanco,N.V.,White,Castilla,Spain,4,2147,15.63,USD,https://www.vivino.com/w/8254797
+164942636,1128385,Veuve Clicquot,Brut (Carte Jaune) Champagne,N.V.,Sparkling,Champagne,France,4.3,149763,61.58,USD,https://www.vivino.com/w/1128385
+164942645,1122095,Moët & Chandon,Impérial Brut Champagne,N.V.,Sparkling,Champagne,France,4.1,143519,55.98,USD,https://www.vivino.com/w/1122095
+164942597,18929,Bollinger,Special Cuvée Brut Aÿ Champagne,N.V.,Sparkling,Champagne,France,4.3,75859,69.43,USD,https://www.vivino.com/w/18929
+164943434,5552281,Laurent-Perrier,La Cuvée Brut Champagne,N.V.,Sparkling,Champagne,France,4.1,64945,55.98,USD,https://www.vivino.com/w/5552281
+164942648,1129619,Taittinger,Brut (Réserve) Champagne,N.V.,Sparkling,Champagne,France,4.2,57775,63.77,USD,https://www.vivino.com/w/1129619
+164942675,79160,Perrier-Jouët,Grand Brut Champagne,N.V.,Sparkling,Champagne,France,4.2,52654,63.82,USD,https://www.vivino.com/w/79160
+164942767,1884610,Pol Roger,Réserve Brut Champagne,N.V.,Sparkling,Champagne,France,4.2,49814,76.1,USD,https://www.vivino.com/w/1884610
+1469472,8305,Laurent-Perrier,Cuvée Rosé,N.V.,Sparkling,Champagne,France,4.4,42628,95.2,USD,https://www.vivino.com/w/8305
+1469170,1141069,G.H. Mumm,(Cordon Rouge) Brut Champagne,N.V.,Sparkling,Champagne,France,3.9,40018,62.65,USD,https://www.vivino.com/w/1141069
+164942599,7122486,Krug,Grande Cuvée,N.V.,Sparkling,Champagne,France,4.6,39921,486.38,USD,https://www.vivino.com/w/7122486
+164943191,15615,Billecart-Salmon,Brut Réserve Champagne,N.V.,Sparkling,Champagne,France,4.2,37698,80.58,USD,https://www.vivino.com/w/15615
+1655483,86290,Charles Heidsieck,Brut Réserve,N.V.,Sparkling,Champagne,France,4.2,37454,73.97,USD,https://www.vivino.com/w/86290
+156715939,6234233,Piper-Heidsieck,Cuvée Brut Champagne,N.V.,Sparkling,Champagne,France,4,36785,62.65,USD,https://www.vivino.com/w/6234233
+164942773,1178663,Deutz,Classic Brut Champagne,N.V.,Sparkling,Champagne,France,4.1,36176,59.34,USD,https://www.vivino.com/w/1178663
+1782659,1382045,Ruinart,Brut (R de Ruinart) Champagne,N.V.,Sparkling,Champagne,France,4.3,32844,94.14,USD,https://www.vivino.com/w/1382045
+164943024,1122092,Moët & Chandon,Impérial Rosé Brut Champagne,N.V.,Sparkling,Champagne,France,4.1,32835,67.19,USD,https://www.vivino.com/w/1122092
+1749818,1367887,Ferrari,Trento Brut,N.V.,Sparkling,Trento,Italy,3.8,29857,34.63,USD,https://www.vivino.com/w/1367887
+157213587,6363154,Nicolas Feuillatte,Réserve Exclusive Brut Champagne,N.V.,Sparkling,Champagne Grand Cru 'Chouilly',France,3.9,29480,61.64,USD,https://www.vivino.com/w/6363154
+164942610,1211816,Billecart-Salmon,Brut Rosé Champagne,N.V.,Sparkling,Champagne,France,4.4,29148,110.84,USD,https://www.vivino.com/w/1211816
+1487195,23051,Veuve Clicquot,Brut Rosé Champagne,N.V.,Sparkling,Champagne,France,4.3,28852,72.79,USD,https://www.vivino.com/w/23051
+164943083,1191278,Ca' del Bosco,Franciacorta Cuvée Prestige,N.V.,Sparkling,Franciacorta,Italy,4.1,28096,52.34,USD,https://www.vivino.com/w/1191278
+1488742,1148298,Ruinart,Brut Rosé Champagne,N.V.,Sparkling,Champagne,France,4.4,28018,123.17,USD,https://www.vivino.com/w/1148298
+1538925,1236719,Valdo,Marca Oro Valdobbiadene Prosecco Superiore Extra Dry,N.V.,Sparkling,Conegliano-Valdobbiadene Prosecco Superiore,Italy,3.7,24659,23.76,USD,https://www.vivino.com/w/1236719
+164942572,19919,Moët & Chandon,Nectar Impérial (Demi-Sec) Champagne,N.V.,Sparkling,Champagne,France,4.2,23380,67.19,USD,https://www.vivino.com/w/19919
+1469048,1161252,Moët & Chandon,Ice Impérial (Demi-Sec) Champagne,N.V.,Sparkling,Champagne,France,4.2,21249,89.66,USD,https://www.vivino.com/w/1161252
+164942634,5938406,Villa Degli Olmi,Corte dei Rovi Prosecco,N.V.,Sparkling,Prosecco,Italy,4.2,18491,16.75,USD,https://www.vivino.com/w/5938406
+1537418,16526,Gosset,Grande Réserve Brut Champagne,N.V.,Sparkling,Champagne,France,4.2,18067,55.98,USD,https://www.vivino.com/w/16526
+1671299,1185753,Guido Berlucchi,Franciacorta Cuvée Imperiale Brut,N.V.,Sparkling,Franciacorta,Italy,3.8,16446,38.66,USD,https://www.vivino.com/w/1185753
+1650248,1223973,Santa Margherita,Prosecco Superiore di Valdobbiadene Brut,,Sparkling,Conegliano-Valdobbiadene Prosecco Superiore,Italy,3.8,16375,31.72,USD,https://www.vivino.com/w/1223973
+4491024,2243607,Palmer & Co.,Brut Réserve Champagne,N.V.,Sparkling,Champagne,France,3.9,14659,63.77,USD,https://www.vivino.com/w/2243607
+1468870,98302,Jacquart,Mosaïque Brut Champagne,N.V.,Sparkling,Champagne,France,3.9,14270,52.45,USD,https://www.vivino.com/w/98302
+1469395,1100738,Heidsieck & Co. Monopole,Blue Top Brut Champagne,N.V.,Sparkling,Champagne,France,3.8,14231,63.88,USD,https://www.vivino.com/w/1100738
+1554466,1238419,Laurent-Perrier,Grand Siècle Champagne (Grande Cuvée),N.V.,Sparkling,Champagne,France,4.5,13857,284.66,USD,https://www.vivino.com/w/1238419
+1485583,1136839,Contadi Castaldi,Franciacorta Brut,N.V.,Sparkling,Franciacorta,Italy,3.8,12549,37.1,USD,https://www.vivino.com/w/1136839
+164942680,1141133,Taittinger,Prestige Rosé Brut Champagne,N.V.,Sparkling,Champagne,France,4.1,12458,77.22,USD,https://www.vivino.com/w/1141133
+1547867,1143613,Taittinger,Cuvée Prestige Brut Champagne,N.V.,Sparkling,Champagne,France,4.1,12281,63.88,USD,https://www.vivino.com/w/1143613
+164942879,83953,Champagne Beaumont des Crayeres,Grande Réserve Brut Champagne,N.V.,Sparkling,Champagne,France,3.8,11111,59.29,USD,https://www.vivino.com/w/83953
+1487059,97412,Mailly Grand Cru,Brut Réserve Champagne Grand Cru,N.V.,Sparkling,Champagne Grand Cru,France,4.1,10713,77.22,USD,https://www.vivino.com/w/97412
+182393330,1133685,Banfi,Rosa Regale,2025,Sparkling,Brachetto d'Acqui,Italy,4,10435,25.55,USD,https://www.vivino.com/w/1133685
+182241625,77783,Batasiolo,Bosc D'la Rei Moscato d'Asti,2025,Sparkling,Moscato d'Asti,Italy,4.2,10365,16.75,USD,https://www.vivino.com/w/77783
+12865935,2922666,Le Mesnil,Blanc de Blancs Brut Champagne Grand Cru N.V,,Sparkling,Champagne Grand Cru,France,4.1,10350,49.25,USD,https://www.vivino.com/w/2922666
+164943261,1987886,Perrier-Jouët,Blason Rosé Brut Champagne,N.V.,Sparkling,Champagne,France,4.2,10235,108.6,USD,https://www.vivino.com/w/1987886
+1486980,1145575,Ceci,Otello 1813 Nero di Lambrusco,N.V.,Sparkling,Emilia,Italy,4,10234,23.09,USD,https://www.vivino.com/w/1145575
+35593775,3753820,Antinori,Tenuta Montenisa 'Marchese Antinori' Cuvée Royale,N.V.,Sparkling,Franciacorta,Italy,3.9,10013,45.84,USD,https://www.vivino.com/w/3753820
+1516472,1194099,Taittinger,Prélude Grands Crus Brut Champagne,N.V.,Sparkling,Champagne,France,4.2,9023,85.12,USD,https://www.vivino.com/w/1194099
+2999579,1212618,Piper-Heidsieck,Rosé Sauvage,N.V.,Sparkling,Champagne,France,3.9,8755,89.66,USD,https://www.vivino.com/w/1212618
+1481474,1136903,Villa Sandi,Prosecco Il Fresco Spumante,N.V.,Sparkling,Prosecco,Italy,3.7,8479,21.52,USD,https://www.vivino.com/w/1136903
+161761563,7592264,Ferrari,Maximum Brut Blanc de Blancs,N.V.,Sparkling,Trento,Italy,3.9,8419,48.64,USD,https://www.vivino.com/w/7592264
+171185491,1207217,Contadi Castaldi,Franciacorta Satèn,2022,Sparkling,Franciacorta,Italy,3.9,8111,40.57,USD,https://www.vivino.com/w/1207217
+147267040,4916944,Marguet,Shaman Champagne Grand Cru,N.V.,Sparkling,Champagne Grand Cru,France,4.2,8001,130,USD,https://www.vivino.com/w/4916944
+1470364,1145859,Ferghettina,Franciacorta Brut,N.V.,Sparkling,Franciacorta,Italy,3.8,7853,43.6,USD,https://www.vivino.com/w/1145859
+2153115,1501172,Francois Montand,Blanc de Blancs Brut,N.V.,Sparkling,Jura,France,3.6,7841,21.07,USD,https://www.vivino.com/w/1501172
+1780297,1188951,Laherte Frères,Blanc de Blancs Brut Nature Champagne,N.V.,Sparkling,Champagne,France,4.1,7635,106.35,USD,https://www.vivino.com/w/1188951
+1628385,1146393,Veuve Clicquot,Cuvée Saint-Pétersbourg Brut Champagne,N.V.,Sparkling,Champagne,France,4.2,7387,89.66,USD,https://www.vivino.com/w/1146393
+1471803,1187849,Bottega,Prosecco Il Vino Dei Poeti,N.V.,Sparkling,Prosecco,Italy,3.7,7316,23.65,USD,https://www.vivino.com/w/1187849
+1525626,1185765,Guido Berlucchi,‘61 Franciacorta Satèn,N.V.,Sparkling,Franciacorta,Italy,3.9,7097,42.7,USD,https://www.vivino.com/w/1185765
+164942708,1204774,Lacheteau,Crémant de Loire Brut,N.V.,Sparkling,Crémant de Loire,France,3.7,6831,23.98,USD,https://www.vivino.com/w/1204774
+154953000,5807620,Perrier-Jouët,Blanc de Blancs Brut Champagne,N.V.,Sparkling,Champagne,France,4.2,6511,114.31,USD,https://www.vivino.com/w/5807620
+182497667,3299030,Villa Folini,Prosecco Millesimato,2025,Sparkling,Prosecco,Italy,3.6,6316,24.66,USD,https://www.vivino.com/w/3299030
+1483929,1181414,Gustave Lorentz,Crémant D'Alsace Brut,N.V.,Sparkling,Crémant d'Alsace,France,3.9,6256,36.65,USD,https://www.vivino.com/w/1181414
+4345940,2203345,Barone Pizzini,Animante Franciacorta,N.V.,Sparkling,Franciacorta,Italy,3.9,6253,44.38,USD,https://www.vivino.com/w/2203345
+183464443,1223408,Paltrinieri,Radice,2025,Sparkling,Lambrusco di Sorbara,Italy,3.8,6234,27.91,USD,https://www.vivino.com/w/1223408
+164943311,92555,Fontanafredda,Asti Dolce,N.V.,Sparkling,Asti,Italy,3.7,6061,23.76,USD,https://www.vivino.com/w/92555
+3065834,1834868,De Venoge,Cordon Bleu Brut Champagne,N.V.,Sparkling,Champagne,France,3.9,5944,62.76,USD,https://www.vivino.com/w/1834868
+1556288,1177703,Tarlant,Zero Brut Nature Champagne,N.V.,Sparkling,Champagne,France,4.1,5876,84.05,USD,https://www.vivino.com/w/1177703
+3531155,1973260,Casalforte,Prosecco Extra Dry,N.V.,Sparkling,Prosecco,Italy,3.5,5631,19.84,USD,https://www.vivino.com/w/1973260
+1813677,1309984,Contadi Castaldi,Franciacorta Rosé,,Sparkling,Franciacorta,Italy,3.9,5484,40.68,USD,https://www.vivino.com/w/1309984
+1468829,1202326,Taittinger,Nocturne Champagne (Sec),N.V.,Sparkling,Champagne,France,4.1,5481,77.33,USD,https://www.vivino.com/w/1202326
+1533193,89657,Boizel,Brut Réserve,N.V.,Sparkling,Champagne,France,4,5452,71.72,USD,https://www.vivino.com/w/89657
+182517417,83405,Bortolomiol,Bandarossa Valdobbiadene Prosecco Superiore,2025,Sparkling,Conegliano-Valdobbiadene Prosecco Superiore,Italy,3.9,5442,30.48,USD,https://www.vivino.com/w/83405
+1522590,1130511,Bailly Lapierre,Crémant de Bourgogne Réserve Brut,N.V.,Sparkling,Crémant de Bourgogne,France,3.9,5282,28.13,USD,https://www.vivino.com/w/1130511
+1944500,1416938,Torresella,Prosecco Extra Dry,N.V.,Sparkling,Prosecco,Italy,3.9,5273,26,USD,https://www.vivino.com/w/1416938
+182643262,1169269,Braida,La Monella Barbera del Monferrato Frizzante,2025,Sparkling,Barbera del Monferrato,Italy,3.3,5230,27.12,USD,https://www.vivino.com/w/1169269
+164942787,1205348,Foss Marai,Strada di Guia 109 Extra Dry,N.V.,Sparkling,Conegliano-Valdobbiadene Prosecco,Italy,3.9,5082,27.68,USD,https://www.vivino.com/w/1205348
+1480018,1211639,Adami,Bosco di Gica Valdobbiadene Prosecco Superiore Brut,N.V.,Sparkling,Conegliano-Valdobbiadene Prosecco Superiore,Italy,3.9,5078,28.58,USD,https://www.vivino.com/w/1211639
+6385346,2457926,Paul Bara,Réserve Brut Champagne Grand Cru 'Bouzy',N.V.,Sparkling,Champagne Grand Cru 'Bouzy',France,4.1,5001,65,USD,https://www.vivino.com/w/2457926
+182921673,92480,Fontanafredda,Le Fronde Moscato d'Asti,2025,Sparkling,Moscato d'Asti,Italy,4,4979,20.85,USD,https://www.vivino.com/w/92480
+168254383,9618321,CHANDON Argentina,Spritz Orange Peel & Spices,N.V.,Sparkling,Mendoza,Argentina,3.9,4948,29.08,USD,https://www.vivino.com/w/9618321
+1485238,79632,Krug,Rosé,N.V.,Sparkling,Champagne,France,4.6,4842,391.12,USD,https://www.vivino.com/w/79632
+168232005,2135631,Bellavista,Franciacorta Satèn,2021,Sparkling,Franciacorta,Italy,4.2,4840,74.97,USD,https://www.vivino.com/w/2135631
+1847736,1401176,Monte Rossa,Sansevè Satèn Brut,N.V.,Sparkling,Franciacorta,Italy,3.9,4801,44.6,USD,https://www.vivino.com/w/1401176
+1543312,17390,Vilmart & Cie,Grande Réserve Brut Champagne Premier Cru,N.V.,Sparkling,Champagne Premier Cru,France,4.1,4707,75.09,USD,https://www.vivino.com/w/17390
+152622199,5445749,Veuve Clicquot,Extra Brut Extra Old Champagne,N.V.,Sparkling,Champagne,France,4.3,4648,121.04,USD,https://www.vivino.com/w/5445749
+1559685,1117191,Simonnet-Febvre,Crémant de Bourgogne Brut,N.V.,Sparkling,Crémant de Bourgogne,France,3.8,4518,40.23,USD,https://www.vivino.com/w/1117191
+43686198,3837995,Laherte Frères,Ultradition Extra-Brut Champagne,N.V.,Sparkling,Champagne,France,4.1,4483,91.34,USD,https://www.vivino.com/w/3837995
+1775736,1179551,Laurent-Perrier,Ultra Brut Champagne (Brut Nature),N.V.,Sparkling,Champagne,France,4.1,4391,105.35,USD,https://www.vivino.com/w/1179551
+158803889,6827065,Brilla,Prosecco,N.V.,Sparkling,Prosecco,Italy,3.9,4228,25.22,USD,https://www.vivino.com/w/6827065
+175816795,7139401,Fontanafredda,Alta Langa Limited Edition,2022,Sparkling,Alta Langa,Italy,3.8,4207,35.3,USD,https://www.vivino.com/w/7139401
+1469403,1152502,Villa Sandi,Valdobbiadene Prosecco Superiore,N.V.,Sparkling,Conegliano-Valdobbiadene Prosecco Superiore,Italy,3.9,4144,24.54,USD,https://www.vivino.com/w/1152502
+1539359,1249745,Mosnel,Franciacorta Brut,,Sparkling,Franciacorta,Italy,3.9,4080,43.26,USD,https://www.vivino.com/w/1249745
+182399360,1877115,Bottega,Rose Gold,2025,Sparkling,Oltrepò Pavese,Italy,3.7,3852,36.42,USD,https://www.vivino.com/w/1877115
+179522861,1877115,Bottega,Rose Gold,2024,Sparkling,Oltrepò Pavese,Italy,3.7,3852,35.97,USD,https://www.vivino.com/w/1877115
+182193348,15153,Braida,Vigna Senza Nome Moscato d'Asti,2025,Sparkling,Moscato d'Asti,Italy,4,3816,22.86,USD,https://www.vivino.com/w/15153
+15534057,3093597,Champagne Devaux,Cuvée D Brut,N.V.,Sparkling,Champagne,France,4,3812,66.12,USD,https://www.vivino.com/w/3093597
+161294540,7474624,Besserat de Bellefon,Bleu Brut Champagne,N.V.,Sparkling,Champagne,France,4.2,3725,71.16,USD,https://www.vivino.com/w/7474624
+1616116,99234,Nino Franco,Valdobbiadene Prosecco Superiore Brut,N.V.,Sparkling,Conegliano-Valdobbiadene Prosecco Superiore,Italy,3.7,3676,28.91,USD,https://www.vivino.com/w/99234
+1740817,1360344,Vollereaux,Brut Réserve Champagne,N.V.,Sparkling,Champagne,France,3.9,3387,55.92,USD,https://www.vivino.com/w/1360344
+179889264,1799,Marchesi di Barolo,Zagara Moscato d’Asti,2024,Sparkling,Moscato d'Asti,Italy,4.1,3372,23.87,USD,https://www.vivino.com/w/1799
+2449052,1624518,Valdo,Origine Spumante Brut,N.V.,Sparkling,Veneto,Italy,3.9,3356,21.74,USD,https://www.vivino.com/w/1624518
+159344617,2067120,Heidsieck & Co. Monopole,Gold Top Brut Champagne,2019,Sparkling,Champagne,France,4,3349,76.77,USD,https://www.vivino.com/w/2067120
+2217279,1540816,Paul Bara,Grand Rosé Brut Champagne Grand Cru 'Bouzy',N.V.,Sparkling,Champagne Grand Cru 'Bouzy',France,4.1,3345,91.79,USD,https://www.vivino.com/w/1540816
+1518841,1156464,Bailly Lapierre,Crémant de Bourgogne Pinot Noir Brut,,Sparkling,Crémant de Bourgogne,France,3.8,3306,29.59,USD,https://www.vivino.com/w/1156464
+4375878,2211821,Louis Roederer,Carte Blanche Champagne (Demi-Sec),N.V.,Sparkling,Champagne,France,4.2,3285,94.03,USD,https://www.vivino.com/w/2211821
+181365538,1150696,Barone Pizzini,Franciacorta Naturae Edizione,2022,Sparkling,Franciacorta,Italy,3.9,3186,54.91,USD,https://www.vivino.com/w/1150696
+166164685,8902890,Santa Margherita,Spumante Rosé Brut,N.V.,Sparkling,Veneto,Italy,3.8,3181,29.7,USD,https://www.vivino.com/w/8902890
+142692303,4433441,Laherte Frères,Rosé de Meunier Extra Brut Champagne,N.V.,Sparkling,Champagne,France,4.1,3164,106.35,USD,https://www.vivino.com/w/4433441
+168677038,9765121,Champagne Telmont,Réserve Brut,N.V.,Sparkling,Champagne,France,4.1,3144,91.9,USD,https://www.vivino.com/w/9765121
+4669759,2298466,Collet,Art Déco Brut Champagne,N.V.,Sparkling,Champagne,France,3.9,3114,64.89,USD,https://www.vivino.com/w/2298466
+158078063,6611013,Louis Armand,Premier Cru Blanc de Blancs Brut Champagne,N.V.,Sparkling,Champagne,France,4,3075,39.17,USD,https://www.vivino.com/w/6611013
+153170817,5563383,Barone Pizzini,Golf 1927 Franciacorta,N.V.,Sparkling,Franciacorta,Italy,3.9,3055,46.85,USD,https://www.vivino.com/w/5563383
+157423862,6425977,Nicolas Feuillatte,Réserve Exclusive Rosé Champagne,,Sparkling,Champagne Grand Cru 'Chouilly',France,4,2939,71.72,USD,https://www.vivino.com/w/6425977
+6368117,2456315,Tenute la Montina,Franciacorta Satén,N.V.,Sparkling,Franciacorta,Italy,3.9,2936,44.6,USD,https://www.vivino.com/w/2456315
+66750166,3960992,Antinori,Tenuta Montenisa 'Marchese Antinori' Blanc de Blancs,N.V.,Sparkling,Franciacorta,Italy,3.9,2925,50.54,USD,https://www.vivino.com/w/3960992
+36020318,3758970,De Venoge,Princes Blanc de Blancs Champagne,,Sparkling,Champagne,France,4.2,2899,99.63,USD,https://www.vivino.com/w/3758970
+1679411,1315162,Nominé-Renard,Brut Champagne,N.V.,Sparkling,Champagne,France,3.9,2863,77.89,USD,https://www.vivino.com/w/1315162
+159644077,1233467,Paul Bara,Millesimé Brut Champagne Grand Cru 'Bouzy',2019,Sparkling,Champagne Grand Cru 'Bouzy',France,4.2,2832,106.35,USD,https://www.vivino.com/w/1233467
+171988795,1606419,Contratto,For England Blanc de Noir Pas Dosé,2022,Sparkling,Alta Langa,Italy,4,2825,65,USD,https://www.vivino.com/w/1606419
+4396432,2218053,Caves de Marsigny,Crémant de Bourgogne Blanc de Noirs Brut,N.V.,Sparkling,Crémant de Bourgogne,France,3.7,2797,38.44,USD,https://www.vivino.com/w/2218053
+1739493,4970,Ferrari,Maximum Rosé,N.V.,Sparkling,Trento,Italy,3.9,2745,54.35,USD,https://www.vivino.com/w/4970
+1564156,1138434,Gancia,Moscato d'Asti,N.V.,Sparkling,Moscato d'Asti,Italy,3.7,2740,21.18,USD,https://www.vivino.com/w/1138434
+3890027,2078896,Astrale,Rosato,N.V.,Rose,Vino d'Italia,Italy,4,7989,15.63,USD,https://www.vivino.com/w/2078896
+179885019,1592963,Masi,Rosa dei Masi Rosato Trevenezie,2025,Rose,Trevenezie,Italy,3.6,5921,26.11,USD,https://www.vivino.com/w/1592963
+168443720,9683938,Félix Solís,Mucho Mas Rosado,N.V.,Rose,Vino de España,Spain,3.9,3566,15.63,USD,https://www.vivino.com/w/9683938
+183076857,1479,Belguardo,Maremma Toscana Rosato,2025,Rose,Maremma Toscana,Italy,3.8,3538,28.58,USD,https://www.vivino.com/w/1479
+182445224,1410416,Cantina Zaccagnini,Cerasuolo d'Abruzzo Rosé (Tralcetto),2025,Rose,Cerasuolo d'Abruzzo,Italy,3.7,3201,21.18,USD,https://www.vivino.com/w/1410416
+182501289,1163215,Librandi,Cirò Rosato (Segno),2025,Rose,Cirò,Italy,3.7,2944,22.3,USD,https://www.vivino.com/w/1163215
+182653238,6326655,Torre Mora,Scalunera Etna Rosato,2025,Rose,Etna,Italy,4,2934,28.02,USD,https://www.vivino.com/w/6326655
+181942076,10640693,Château Galoupet,Cru Classé,2025,Rose,Côtes de Provence,France,4,2750,78.45,USD,https://www.vivino.com/w/10640693
+182606165,1587517,Fantini,Fantini Cerasuolo d'Abruzzo,2025,Rose,Cerasuolo d'Abruzzo,Italy,3.5,2652,23.76,USD,https://www.vivino.com/w/1587517
+179891637,1573861,Leone de Castris,Five Roses,2025,Rose,Salento,Italy,3.9,2594,24.99,USD,https://www.vivino.com/w/1573861
+182394282,1280422,Tenuta Ulisse,Cerasuolo d'Abruzzo Rosé (Unico),2025,Rose,Cerasuolo d'Abruzzo,Italy,3.9,2342,26.34,USD,https://www.vivino.com/w/1280422
+179980114,1609217,Château Pesquie,Ventoux Terrasses Rosé,2024,Rose,Ventoux,France,3.7,2260,23.31,USD,https://www.vivino.com/w/1609217
+182394902,1104824,Château d'Esclans,Whispering Angel Rosé,2025,Rose,Côtes de Provence,France,4.1,2148,31.32,USD,https://www.vivino.com/w/1104824
+181112628,1797040,Ottella,RosesRoses,2025,Rose,Veneto,Italy,3.9,1897,27.35,USD,https://www.vivino.com/w/1797040
+182600544,8169118,Ruffino,Aqua di Venus Toscana,2025,Rose,Toscana,Italy,3.9,1872,30.26,USD,https://www.vivino.com/w/8169118
+180194857,1190566,Le Vigne di Zamò,Ramato Pinot Grigio,2024,Rose,Colli Orientali del Friuli,Italy,3.8,1852,31.49,USD,https://www.vivino.com/w/1190566
+182770665,8255745,Favori,Château Favori,2025,Rose,Coteaux Varois en Provence,France,4.1,1788,25.72,USD,https://www.vivino.com/w/8255745
+181812767,1150765,Lunae,Mea Rosa,2025,Rose,Liguria,Italy,3.8,1773,28.35,USD,https://www.vivino.com/w/1150765
+181137089,1235318,Fontanafredda,Solerose Rosato,2025,Rose,Langhe,Italy,3.7,1661,25.33,USD,https://www.vivino.com/w/1235318
+183167775,2427117,Tenuta San Francesco,Costa d'Amalfi Rosato,2025,Rose,Costa d'Amalfi,Italy,4,1649,34.18,USD,https://www.vivino.com/w/2427117
+182882831,1239401,Poggio Al Tesoro,Cassiopea,2025,Rose,Toscana,Italy,3.7,1633,28.35,USD,https://www.vivino.com/w/1239401
+182378414,7274524,Notte Rossa,Primitivo Rosato,2025,Rose,Salento,Italy,3.7,1320,25.1,USD,https://www.vivino.com/w/7274524
+182657707,3883329,Notte Rossa,Negroamaro Rosato,2025,Rose,Salento,Italy,3.6,1250,22.97,USD,https://www.vivino.com/w/3883329
+182541182,1584351,Contini,Nieddera Rosato,2025,Rose,Valle del Tirso,Italy,3.7,1217,23.76,USD,https://www.vivino.com/w/1584351
+182399121,1497082,Minuty,M Rosé,2025,Rose,Côtes de Provence,France,4,1130,27.96,USD,https://www.vivino.com/w/1497082
+182885436,4525445,Petra,Belvento Velarosa Toscana (I Vini Del Mare),2025,Rose,Toscana,Italy,3.7,1100,23.98,USD,https://www.vivino.com/w/4525445
+182806612,1708245,Podere 414,Flower Power Toscana Rosato,2025,Rose,Toscana,Italy,3.7,1100,26,USD,https://www.vivino.com/w/1708245
+182876885,1853068,Paololeo,Primitivo Rosè,2025,Rose,Puglia,Italy,3.6,1078,23.98,USD,https://www.vivino.com/w/1853068
+182600740,1629777,Librandi,Terre Lontane Rosato,2025,Rose,Val di Neto,Italy,3.7,1077,24.77,USD,https://www.vivino.com/w/1629777
+182441767,1589551,Rivera,Pungirosa Castel del Monte,2025,Rose,Castel del Monte,Italy,3.6,1061,23.09,USD,https://www.vivino.com/w/1589551
+182813338,1310268,Rocca di Montegrossi,Toscana Rosato,2025,Rose,Toscana,Italy,3.8,977,30.37,USD,https://www.vivino.com/w/1310268
+179931636,3388614,Le Paradou,Cinsault Rosé,2024,Rose,Luberon,France,3.6,970,24.43,USD,https://www.vivino.com/w/3388614
+182565453,5455520,Peyrassol,#Lou Côtes de Provence,2025,Rose,Côtes de Provence,France,3.8,948,25.78,USD,https://www.vivino.com/w/5455520
+182993412,1380522,Guerrieri,Rosa dei Venti,2025,Rose,Marche,Italy,4,927,26.78,USD,https://www.vivino.com/w/1380522
+179977047,2485466,Franz Haas,Sofi Shiava,2025,Rose,Vigneti delle Dolomiti,Italy,3.4,909,25.22,USD,https://www.vivino.com/w/2485466
+182832365,8252900,Piccini,Collezione Oro Toscana Rosato,2025,Rose,Toscana,Italy,3.8,898,23.53,USD,https://www.vivino.com/w/8252900
+183219038,6347822,Casa Rojo,Haru,2025,Rose,Murcia,Spain,3.8,876,32.72,USD,https://www.vivino.com/w/6347822
+182905290,2498826,Tenuta Argentiera,I Pianali Rosato,2025,Rose,Bolgheri,Italy,3.7,812,29.25,USD,https://www.vivino.com/w/2498826
+181130883,8871920,Umberto Cesari,Costa di Rosé Sangiovese Rosé,2025,Rose,Rubicone,Italy,4,786,32.61,USD,https://www.vivino.com/w/8871920
+173623232,10039768,Azul y Garanza,Naturaleza Salvaje Clarete,2022,Rose,Navarra,Spain,4,761,30.6,USD,https://www.vivino.com/w/10039768
+180900353,7178015,Bosco del Merlo,Pinot Grigio Rosè,2025,Rose,Veneto,Italy,3.9,753,27.79,USD,https://www.vivino.com/w/7178015
+182770666,9525579,Favori,Favori Méditerranée,2025,Rose,Var,France,4,692,19,USD,https://www.vivino.com/w/9525579
+182689035,7268336,Umani Ronchi,Centovie Rosato,2025,Rose,Colli Aprutini,Italy,3.8,691,27.79,USD,https://www.vivino.com/w/7268336
+183165553,4052806,Tornatore,Etna Rosato,2025,Rose,Etna,Italy,3.8,689,40.57,USD,https://www.vivino.com/w/4052806
+182550857,1222363,Minuty,Prestige Rosé,2025,Rose,Côtes de Provence,France,4.1,672,38.55,USD,https://www.vivino.com/w/1222363
+182874622,4159280,Maccone,Primitivo Rosato,2025,Rose,Puglia,Italy,4,670,28.69,USD,https://www.vivino.com/w/4159280
+179904557,1206202,Cà dei Frati,Rosa dei Frati Riviera del Garda Classico Rosé,2025,Rose,Lombardia,Italy,4.2,645,27.91,USD,https://www.vivino.com/w/1206202
+182976755,22911,Banfi,Centine Rosé,2025,Rose,Toscana,Italy,3.5,576,25.66,USD,https://www.vivino.com/w/22911
+177556660,22911,Banfi,Centine Rosé,2023,Rose,Toscana,Italy,3.5,576,25.44,USD,https://www.vivino.com/w/22911
+182949550,10678363,Fina,Hanami Rosé,2025,Rose,Terre Siciliane,Italy,3.9,573,27.91,USD,https://www.vivino.com/w/10678363
+182611070,2185379,Mesa,Rosa Grande,2025,Rose,Sardegna,Italy,3.6,556,32.16,USD,https://www.vivino.com/w/2185379
+182972829,2669372,Tenuta Di Vaira,Caccia al Palazzo Bolgheri Rosato,2025,Rose,Bolgheri,Italy,3.8,549,31.94,USD,https://www.vivino.com/w/2669372
+182887588,1244028,Santadi,Tre Torri Carignano del Sulcis,2025,Rose,Carignano del Sulcis,Italy,3.5,540,22.08,USD,https://www.vivino.com/w/1244028
+182646996,1584238,Château de la Galiniere,Côtes de Provence Rosé,2025,Rose,Côtes de Provence,France,3.7,520,26.56,USD,https://www.vivino.com/w/1584238
+182997576,12020493,Bodegas Martín Códax,Marieta Mencía Rosé,2025,Rose,Castilla y León,Spain,4,506,25.1,USD,https://www.vivino.com/w/12020493
+182151566,61034,Tormaresca,Negroamaro Salento Calafuria Rosato,2025,Rose,Salento,Italy,4,463,27.96,USD,https://www.vivino.com/w/61034
+182782425,10845026,San Marzano,Amai Susumaniello Rosé,2025,Rose,Salento,Italy,4,439,28.02,USD,https://www.vivino.com/w/10845026
+181659679,11751242,Kaiken,Nude Rosé,2025,Rose,Lujan de Cuyo,Argentina,4.1,411,32.39,USD,https://www.vivino.com/w/11751242
+179776205,4992,Planeta,Sicilia Rosé,2024,Rose,Sicilia,Italy,3.8,396,22.86,USD,https://www.vivino.com/w/4992
+177733245,7216234,The Wanted,Zinfandel Rosé,2023,Rose,Puglia,Italy,3.4,370,21.52,USD,https://www.vivino.com/w/7216234
+180077819,7216234,The Wanted,Zinfandel Rosé,2024,Rose,Puglia,Italy,3.4,370,21.52,USD,https://www.vivino.com/w/7216234
+180645221,6656118,Conti Thun,Micaela Valténesi Chiaretto,2025,Rose,Valtenesi,Italy,4.1,352,31.6,USD,https://www.vivino.com/w/6656118
+182399906,2638097,Miraval,Côtes de Provence Rosé,2025,Rose,Côtes de Provence,France,4,349,37.54,USD,https://www.vivino.com/w/2638097
+172833404,6141269,Can Sumoi,La Rosa,2022,Rose,Penedès,Spain,4.1,345,40.12,USD,https://www.vivino.com/w/6141269
+180325180,8025174,Pierre Ponnelle,Pinot Noir Rosé,2025,Rose,Vin de France,France,3.9,343,26.22,USD,https://www.vivino.com/w/8025174
+182399971,5294518,Fleurs de Prairie,Côtes de Provence,2025,Rose,Côtes de Provence,France,4,337,21.24,USD,https://www.vivino.com/w/5294518
+180798434,9696937,Vila Real,Cancellus Premium Rosé,2024,Rose,Douro,Portugal,3.8,334,23.98,USD,https://www.vivino.com/w/9696937
+183904653,1234694,Candido,Le Pozzelle Salice Salentino Rosé,2025,Rose,Salice Salentino,Italy,3.4,332,25.55,USD,https://www.vivino.com/w/1234694
+180696969,1234694,Candido,Le Pozzelle Salice Salentino Rosé,2024,Rose,Salice Salentino,Italy,3.4,332,25.55,USD,https://www.vivino.com/w/1234694
+183769068,8710577,Duca di Saragnano,Primitivo Leggermente Appassite Rosato,2025,Rose,Puglia,Italy,3.9,327,24.99,USD,https://www.vivino.com/w/8710577
+173983491,4096075,Familia Torres,Viña Esmeralda Rosado,2023,Rose,Catalunya,Spain,3.9,327,23.2,USD,https://www.vivino.com/w/4096075
+182399651,2405809,Ravoire & Fils,Manon Côtes de Provence Rosé,2025,Rose,Côtes de Provence,France,3.9,319,31.6,USD,https://www.vivino.com/w/2405809
+183406153,8442587,Cantine Pellegrino,Albarìa,2025,Rose,Terre Siciliane,Italy,3.8,314,27.91,USD,https://www.vivino.com/w/8442587
+183506310,11679575,Levitation,Bobal - Tempranillo Rosé,2025,Rose,Utiel-Requena,Spain,4.1,290,16.75,USD,https://www.vivino.com/w/11679575
+180888446,1938445,Giuseppe Sedilesu,Erèssia Cannonau di Sardegna Rosato,2024,Rose,Cannonau di Sardegna,Italy,3.5,288,29.92,USD,https://www.vivino.com/w/1938445
+174007606,6394800,Ciavolich,Fosso Cancelli Cerasuolo d'Abruzzo,2023,Rose,Cerasuolo d'Abruzzo,Italy,4,282,54.69,USD,https://www.vivino.com/w/6394800
+182440600,6435681,Feudi Bizantini,Passofino Rosato,2025,Rose,Terre di Chieti,Italy,3.9,258,29.7,USD,https://www.vivino.com/w/6435681
+182644759,1159157,Antinori,Tenuta Guado al Tasso Scalabrone Bolgheri Rosato,2025,Rose,Bolgheri,Italy,4.1,246,30.15,USD,https://www.vivino.com/w/1159157
+182995146,6422459,Cantina Valpantena,Torre del Falasco Bardolino Chiaretto Rosato,2025,Rose,Bardolino Chiaretto,Italy,3.6,244,22.41,USD,https://www.vivino.com/w/6422459
+182636483,7924904,Nicosia,Lenza di Munti Etna Rosato,2025,Rose,Etna,Italy,3.5,239,31.6,USD,https://www.vivino.com/w/7924904
+182214442,4389543,San Marzano,Tramari Rosé di Primitivo,2025,Rose,Salento,Italy,4,239,26.78,USD,https://www.vivino.com/w/4389543
+183168880,9760080,Lupo Meraviglia,Uno di Uno Primitivo Rose,2025,Rose,Puglia,Italy,4,238,23.42,USD,https://www.vivino.com/w/9760080
+182612942,1193781,Minuty,Château Minuty Rose et Or,2025,Rose,Côtes de Provence,France,4.2,223,39.17,USD,https://www.vivino.com/w/1193781
+182706448,7238182,Alture,Susumaniello Rosè,2025,Rose,Puglia,Italy,3.7,219,28.47,USD,https://www.vivino.com/w/7238182
+11726079,2841715,Pierre Zero,Rosé Alcohol Free,N.V.,Rose,Languedoc,France,3.3,217,14.91,USD,https://www.vivino.com/w/2841715
+180557335,5544804,Viticcio,Massaia,2024,Rose,Toscana,Italy,3.6,213,29.81,USD,https://www.vivino.com/w/5544804
+176736961,6141269,Can Sumoi,La Rosa,2023,Rose,Penedès,Spain,3.9,202,40.12,USD,https://www.vivino.com/w/6141269
+183470325,8550148,Cottini Stile Naturale,Bardolino Chiaretto,2025,Rose,Bardolino Chiaretto,Italy,3.7,198,24.32,USD,https://www.vivino.com/w/8550148
+183040867,6437378,Val delle Rose,Litorale Rosato,2025,Rose,Maremma Toscana,Italy,3.9,198,26.45,USD,https://www.vivino.com/w/6437378
+180134528,4772924,Podere 29,Gelso Rosa Nero di Troia,2024,Rose,Puglia,Italy,3.8,198,29.36,USD,https://www.vivino.com/w/4772924
+179957887,6143001,Tenuta le Colonne,Rosato,2024,Rose,Costa Toscana,Italy,3.6,186,28.13,USD,https://www.vivino.com/w/6143001
+179621505,6326655,Torre Mora,Scalunera Etna Rosato,2024,Rose,Etna,Italy,4,181,22.36,USD,https://www.vivino.com/w/6326655
+182204037,1665268,Doppio Passo,Primitivo Rosato,2025,Rose,Puglia,Italy,3.8,178,20.28,USD,https://www.vivino.com/w/1665268
+180096304,6721563,Nube de Leza García,Rosé,2024,Rose,Rioja,Spain,3.8,173,24.32,USD,https://www.vivino.com/w/6721563
+179855055,4606258,Can Rich,Rosado,2024,Rose,Ibiza,Spain,3.2,157,25.89,USD,https://www.vivino.com/w/4606258
+180027346,9631391,Masseria Ficarigna,Negroamaro Rosato,2024,Rose,Salento,Italy,3.6,153,26.34,USD,https://www.vivino.com/w/9631391
+180354478,9644746,Vallepicciola,Pievasciata Rosato,2024,Rose,Toscana,Italy,3.8,153,26.45,USD,https://www.vivino.com/w/9644746
+179669888,9541896,Château d'Esclans,The Pale Rosé,2024,Rose,Provence,France,3.8,149,39,USD,https://www.vivino.com/w/9541896
+182153931,4992,Planeta,Sicilia Rosé,2025,Rose,Sicilia,Italy,3.8,148,21.63,USD,https://www.vivino.com/w/4992
+182651919,13226055,Banfi,La Pettegola Rosé,2025,Rose,Toscana,Italy,3.8,146,23.53,USD,https://www.vivino.com/w/13226055
+181685871,4626739,Can Axartell,Rosado,2025,Rose,Mallorca,Spain,4.1,137,24.6,USD,https://www.vivino.com/w/4626739
+183642858,9921493,Cantina Zaccagnini,Chronicon Cerasuolo d'Abruzzo,2025,Rose,Cerasuolo d'Abruzzo,Italy,3.5,119,28.02,USD,https://www.vivino.com/w/9921493
+182333368,2180124,Donnafugata,Lumera,2025,Rose,Terre Siciliane,Italy,4,115,28.35,USD,https://www.vivino.com/w/2180124
+182566955,3941411,Tenuta Ammiraglia,Alìe Rosé Toscana,2025,Rose,Toscana,Italy,4,115,25.78,USD,https://www.vivino.com/w/3941411
+182731903,13312662,Cecchi,Calipte Rosé,2025,Rose,Toscana,Italy,3.7,114,27.91,USD,https://www.vivino.com/w/13312662
+182949835,4126422,Fattoria Aldobrandesca,Aleatico Toscana Rosato,2025,Rose,Toscana,Italy,4.2,114,52.22,USD,https://www.vivino.com/w/4126422
+182632734,4522810,Château d'Esclans,Rock Angel Rosé,2025,Rose,Côtes de Provence,France,4.1,109,33.57,USD,https://www.vivino.com/w/4522810
+182403025,9541896,Château d'Esclans,The Pale Rosé,2025,Rose,Provence,France,3.9,108,39,USD,https://www.vivino.com/w/9541896
+182864410,9365454,Kolonne Null,Rosé,2025,Rose,Nahe,Germany,3.3,107,18.72,USD,https://www.vivino.com/w/9365454
+182552212,4301250,Minuty,Château Minuty 281,2025,Rose,Côtes de Provence,France,4.3,103,67.19,USD,https://www.vivino.com/w/4301250
+177846923,2332023,La Frassina,Miglio Rosato delle Venezie,2023,Rose,delle Venezie,Italy,3.9,101,24.21,USD,https://www.vivino.com/w/2332023
+183111092,7502404,Château de la Galiniere,Cuvée Badetty Côtes de Provence Rosé,2025,Rose,Côtes de Provence,France,3.7,100,30.71,USD,https://www.vivino.com/w/7502404
+180009142,1719731,Can Rich,Bes Monastrell,2024,Rose,Murcia,Spain,3.6,100,36.76,USD,https://www.vivino.com/w/1719731
+180001664,1648158,Scaia,Rosato,2025,Rose,Veneto,Italy,4.1,98,24.1,USD,https://www.vivino.com/w/1648158
+182492010,9325216,Peyrassol,La Croix Rosé,2025,Rose,Méditerranée,France,3.8,94,25.22,USD,https://www.vivino.com/w/9325216
+182153306,6509239,Sella & Mosca,Anemone Alghero Rosato,2025,Rose,Alghero,Italy,3.9,89,22.86,USD,https://www.vivino.com/w/6509239
+180109286,11810131,Paololeo,Rosamora Rosato,2024,Rose,Salento,Italy,3.9,88,28.13,USD,https://www.vivino.com/w/11810131
+182020029,5282330,Cape Dreams,Pinotage Rosé,2025,Rose,Western Cape,South Africa,3.6,88,25.89,USD,https://www.vivino.com/w/5282330
+179492804,1592963,Masi,Rosa dei Masi Rosato Trevenezie,2024,Rose,Trevenezie,Italy,3.6,86,26.34,USD,https://www.vivino.com/w/1592963
+182232396,13303144,San Marzano,Tramari Just One More Glass Amore Mio,2025,Rose,Vino d'Italia,Italy,3.9,83,31.6,USD,https://www.vivino.com/w/13303144
+171299297,779970,Château Haut-Bergeron,Sauternes,2021,Dessert,Sauternes,France,4.2,3410,86.18,USD,https://www.vivino.com/w/779970
+175559878,94068,Contini,Vernaccia di Oristano 'Flor',2021,Dessert,Vernaccia di Oristano,Italy,3.7,1488,35.86,USD,https://www.vivino.com/w/94068
+180144022,1429532,Bava,Rosetta Malvasia di Castelnuovo Don Bosco,2024,Dessert,Malvasia di Castelnuovo don Bosco,Italy,3.8,950,24.88,USD,https://www.vivino.com/w/1429532
+179464276,1457804,Conte Vistarino,Costiolo Sangue di Giuda,2024,Dessert,Sangue di Giuda dell'Oltrepo Pavese,Italy,4,616,24.43,USD,https://www.vivino.com/w/1457804
+145178546,81732,Château Doisy-Vedrines-Olivier Castéja,Sauternes (Grand Cru Classé),2016,Dessert,Sauternes,France,4.1,583,61.64,USD,https://www.vivino.com/w/81732
+165541547,1142535,Bosco del Merlo,Soandre Verduzzo Passito,2020,Dessert,delle Venezie,Italy,4,461,36.09,USD,https://www.vivino.com/w/1142535
+173074391,4139704,Canneto,Il Muffato,2022,Dessert,Toscana,Italy,4.1,298,53.68,USD,https://www.vivino.com/w/4139704
+143968769,93611,Château Bastor-Lamontagne,Sauternes,2016,Dessert,Sauternes,France,4,291,43.48,USD,https://www.vivino.com/w/93611
+163483054,1490759,Château Bastor-Lamontagne,Château Bordenave Sauternes,2020,Dessert,Sauternes,France,3.9,287,42.03,USD,https://www.vivino.com/w/1490759
+179352690,80466,Ronchi di Cialla,Verduzzo di Cialla,2020,Dessert,Friuli-Venezia Giulia,Italy,4,284,59.4,USD,https://www.vivino.com/w/80466
+178453960,9228144,Cantine Pellegrino,Giardino Pantesco Passito di Pantelleria,2023,Dessert,Passito di Pantelleria,Italy,4.1,283,42.25,USD,https://www.vivino.com/w/9228144
+180886898,9228144,Cantine Pellegrino,Giardino Pantesco Passito di Pantelleria,2024,Dessert,Passito di Pantelleria,Italy,4.1,283,38.1,USD,https://www.vivino.com/w/9228144
+102239520,16786,Château Climens,Barsac (Premier Grand Cru Classé),2016,Dessert,Barsac,France,4.4,266,122.16,USD,https://www.vivino.com/w/16786
+178972782,1784279,Duc de Castellac,Selection de Grains Nobles Monbazillac,2022,Dessert,Monbazillac,France,3.8,262,35.97,USD,https://www.vivino.com/w/1784279
+5994482,1298083,Château Nairac,Barsac (Grand Cru Classé),2011,Dessert,Barsac,France,4.3,235,76.21,USD,https://www.vivino.com/w/1298083
+170423546,1153863,Château d'Yquem,Sauternes,2022,Dessert,Sauternes,France,4.6,226,469.57,USD,https://www.vivino.com/w/1153863
+1286468,84178,Château de Fargues,Sauternes (Lur Saluces),2008,Dessert,Sauternes,France,4.3,186,106.47,USD,https://www.vivino.com/w/84178
+179147750,4366433,Cantine Pellegrino,Moscato di Pantelleria,2023,Dessert,Moscato di Pantelleria,Italy,3.7,135,34.07,USD,https://www.vivino.com/w/4366433
+178534236,4366433,Cantine Pellegrino,Moscato di Pantelleria,2024,Dessert,Moscato di Pantelleria,Italy,3.7,135,36.09,USD,https://www.vivino.com/w/4366433
+172847660,2677769,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé),2022,Dessert,Barsac,France,4.2,97,71.61,USD,https://www.vivino.com/w/2677769
+167202667,1135215,Château Rieussec,Sauternes (Premier Grand Cru Classé),2021,Dessert,Sauternes,France,4.3,58,172.59,USD,https://www.vivino.com/w/1135215
+179762334,99526,Angerhof Tschida,Muskat Ottonel Auslese,2024,Dessert,Neusiedlersee,Austria,3.9,57,44.16,USD,https://www.vivino.com/w/99526
+178762256,1238297,Château Haut-Bergeron,Château Fontebride Sauternes,2022,Dessert,Sauternes,France,4.1,49,59.4,USD,https://www.vivino.com/w/1238297
+174409077,1570041,Vite Colte,La Bella Estate Moscato Passito,2023,Dessert,Piemonte,Italy,4.1,45,42.7,USD,https://www.vivino.com/w/1570041
+174121530,1189369,Château Rieussec,Carmes de Rieussec Sauternes,2023,Dessert,Sauternes,France,4.2,40,52,USD,https://www.vivino.com/w/1189369
+179001335,2046131,Château Haut-Bergeron,L'Ilot de Haut-Bergeron Sauternes,2023,Dessert,Sauternes,France,4,30,53.35,USD,https://www.vivino.com/w/2046131
+174184767,1958101,Klein Constantia,Vin de Constance (Natural Sweet),2023,Dessert,Constantia,South Africa,4.6,18335,76.66,USD,https://www.vivino.com/w/1958101
+3968608,1690,Antinori,Castello della Sala Muffato della Sala,1998,Dessert,Umbria,Italy,4.3,8599,140.09,USD,https://www.vivino.com/w/1690
+11720537,1690,Antinori,Castello della Sala Muffato della Sala,1994,Dessert,Umbria,Italy,4.3,8599,168.11,USD,https://www.vivino.com/w/1690
+2034035,1690,Antinori,Castello della Sala Muffato della Sala,1995,Dessert,Umbria,Italy,4.3,8599,179.31,USD,https://www.vivino.com/w/1690
+7007124,1690,Antinori,Castello della Sala Muffato della Sala,1996,Dessert,Umbria,Italy,4.3,8599,134.48,USD,https://www.vivino.com/w/1690
+1471780,3777,Familia Torres,Floralis Moscatel Oro,N.V.,Dessert,Penedès,Spain,3.8,8303,15.73,USD,https://www.vivino.com/w/3777
+170834069,79793,Kracher,Cuvée Beerenauslese,2022,Dessert,Burgenland,Austria,4.1,5932,22.41,USD,https://www.vivino.com/w/79793
+183215210,1683348,Château Lamothe Guignard,Sauternes (Grand Cru Classé),2025,Dessert,Sauternes,France,4.1,3134,26.9,USD,https://www.vivino.com/w/1683348
+180357005,1683348,Château Lamothe Guignard,Sauternes (Grand Cru Classé),2024,Dessert,Sauternes,France,4.1,3134,28.24,USD,https://www.vivino.com/w/1683348
+171927799,4261210,San Marzano,11 Filari Primitivo di Manduria Dolce Naturale,2021,Dessert,Primitivo di Manduria,Italy,4.1,2376,17.71,USD,https://www.vivino.com/w/4261210
+147488081,1298083,Château Nairac,Barsac (Grand Cru Classé),2016,Dessert,Barsac,France,4.2,2369,49.76,USD,https://www.vivino.com/w/1298083
+182643007,1751195,Kracher,Cuvée Auslese,2025,Dessert,Burgenland,Austria,3.9,2215,12.33,USD,https://www.vivino.com/w/1751195
+180260171,1499452,Kracher,Cuvée Spätlese,2024,Dessert,Burgenland,Austria,3.9,2100,12.33,USD,https://www.vivino.com/w/1499452
+1401015,22224,Château Guiraud,Sauternes (Premier Grand Cru Classé),2009,Dessert,Sauternes,France,4.4,2066,68.5,USD,https://www.vivino.com/w/22224
+3012196,77461,Isole e Olena,Vin Santo del Chianti Classico,1994,Dessert,Vin Santo del Chianti Classico,Italy,4.4,1650,65,USD,https://www.vivino.com/w/77461
+179787669,1695676,Kaltern,Goldmuskateller Moscato Giallo,2024,Dessert,Trentino-Alto Adige,Italy,3.8,1605,10.59,USD,https://www.vivino.com/w/1695676
+168017866,1176121,Donnafugata,Ben Ryé Passito di Pantelleria,2021,Dessert,Passito di Pantelleria,Italy,4.4,1576,35.75,USD,https://www.vivino.com/w/1176121
+181994539,1838,Bertani,Recioto della Valpolicella Valpantena,2024,Dessert,Recioto della Valpolicella,Italy,4,1445,23.2,USD,https://www.vivino.com/w/1838
+173268607,1171429,Zantho,Beerenauslese,2022,Dessert,Burgenland,Austria,4.2,1142,18.94,USD,https://www.vivino.com/w/1171429
+183254980,73943,Lenz Moser,Trockenbeerenauslese Prestige,2025,Dessert,Burgenland,Austria,4,1039,19.61,USD,https://www.vivino.com/w/73943
+163625748,14945,Cantina Valpantena,Tesauro Recioto della Valpolicella,2019,Dessert,Recioto della Valpolicella,Italy,3.9,995,17.76,USD,https://www.vivino.com/w/14945
+21432438,2147490,Fernand Engel,Vendanges Tardives Gewürztraminer,2010,Dessert,Alsace Grand Cru,France,4.2,985,28.02,USD,https://www.vivino.com/w/2147490
+164056645,1294260,Frescobaldi,Vin Santo del Chianti Quaranta Altari,2019,Dessert,Vin Santo del Chianti,Italy,3.8,938,22.47,USD,https://www.vivino.com/w/1294260
+156586158,1189369,Château Rieussec,Carmes de Rieussec Sauternes,2018,Dessert,Sauternes,France,4,913,17.27,USD,https://www.vivino.com/w/1189369
+180561784,1831062,Kracher,Auslese Zweigelt,2023,Dessert,Burgenland,Austria,4,895,12.33,USD,https://www.vivino.com/w/1831062
+5390587,1189369,Château Rieussec,Carmes de Rieussec Sauternes,2012,Dessert,Sauternes,France,3.9,891,30.15,USD,https://www.vivino.com/w/1189369
+23145191,1195851,Ferrandes,Passito di Pantelleria,2015,Dessert,Passito di Pantelleria,Italy,4.3,851,61.64,USD,https://www.vivino.com/w/1195851
+156933830,79793,Kracher,Cuvée Beerenauslese,2018,Dessert,Burgenland,Austria,4.1,774,88.31,USD,https://www.vivino.com/w/79793
+159923419,1465457,Attanasio,Primitivo di Manduria Dolce Naturale,2019,Dessert,Primitivo di Manduria Dolce Naturale,Italy,4.3,769,31.38,USD,https://www.vivino.com/w/1465457
+21681978,1105642,Château Pierre-Bise,Les Rouannières Coteaux du Layon 'Beaulieu',1988,Dessert,Coteaux du Layon 'Beaulieu-sur-Layon',France,4.1,715,44.83,USD,https://www.vivino.com/w/1105642
+150941722,1549415,Royal Tokaji,Aszú 6 puttonyos,2017,Dessert,Tokaj,Hungary,4.4,667,63.77,USD,https://www.vivino.com/w/1549415
+181215579,1319012,Caravaglio,Malvasia delle Lipari Passito,2025,Dessert,Malvasia delle Lipari,Italy,4.1,660,41.47,USD,https://www.vivino.com/w/1319012
+152174111,96337,Château Doisy-Daëne,L'Extravagant de Doisy-Daëne Sauternes,2017,Dessert,Sauternes,France,4.6,617,312.68,USD,https://www.vivino.com/w/96337
+168147245,1286013,Carole Bouquet,Sangue d'Oro Passito di Pantelleria,2021,Dessert,Passito di Pantelleria,Italy,4.2,606,144.57,USD,https://www.vivino.com/w/1286013
+181440748,1170345,Kracher,Muskat Ottonel Auslese,2024,Dessert,Burgenland,Austria,3.9,600,13.45,USD,https://www.vivino.com/w/1170345
+1256723,1181696,Brown Brothers,Muscat Late Harvest,2008,Dessert,Victoria,Australia,3.8,592,11.21,USD,https://www.vivino.com/w/1181696
+180435731,1405381,Azienda Agricola Accornero,Brigantino Casorzo,2024,Dessert,Malvasia di Casorzo d'Asti,Italy,4.1,579,12.54,USD,https://www.vivino.com/w/1405381
+17034380,6211,Carpineto,Farnito Vin Santo del Chianti,2006,Dessert,Vin Santo del Chianti,Italy,3.9,578,47.07,USD,https://www.vivino.com/w/6211
+176595544,1900185,Domaine de Montlong,Monbazillac,2022,Dessert,Monbazillac,France,3.9,555,11.95,USD,https://www.vivino.com/w/1900185
+177003001,1203096,Alpha Estate (Κτήμα Αλφα),Omega Late Harvest,2022,Dessert,Florina,Greece,4.2,539,30.15,USD,https://www.vivino.com/w/1203096
+181292253,92947,Hauner,Malvasia delle Lipari Naturale,2023,Dessert,Malvasia delle Lipari,Italy,3.9,500,31.83,USD,https://www.vivino.com/w/92947
+150556802,1135215,Château Rieussec,Sauternes (Premier Grand Cru Classé),2017,Dessert,Sauternes,France,4.3,492,106.47,USD,https://www.vivino.com/w/1135215
+70256499,2219952,Ansitz Waldgries,Rosenmuskateller,2014,Dessert,Trentino,Italy,4.3,478,31.37,USD,https://www.vivino.com/w/2219952
+156093064,1153863,Château d'Yquem,Sauternes,2018,Dessert,Sauternes,France,4.7,475,420.26,USD,https://www.vivino.com/w/1153863
+162916779,1189369,Château Rieussec,Carmes de Rieussec Sauternes,2020,Dessert,Sauternes,France,4.1,472,16.95,USD,https://www.vivino.com/w/1189369
+173997917,1269072,Capanna,Moscadello di Montalcino Vendemmia Tardiva,2020,Dessert,Moscadello di Montalcino,Italy,4.2,461,36.53,USD,https://www.vivino.com/w/1269072
+169522443,1172902,Zantho,Eiswein,2020,Dessert,Burgenland,Austria,4.2,456,26.34,USD,https://www.vivino.com/w/1172902
+155490029,5796615,Château de Fesles,Bonnezeaux,1998,Dessert,Bonnezeaux,France,4.3,453,56.04,USD,https://www.vivino.com/w/5796615
+159861558,5796615,Château de Fesles,Bonnezeaux,2006,Dessert,Bonnezeaux,France,4.3,453,39.22,USD,https://www.vivino.com/w/5796615
+173314908,1617430,Aromo,Muscat Of Alexandria Late Harvest Artemisa,2022,Dessert,Itata Valley,Chile,4.1,453,12.9,USD,https://www.vivino.com/w/1617430
+179965933,1193030,Forteto della Luja,Pian dei Sogni,2023,Dessert,Piemonte,Italy,4.2,430,31.04,USD,https://www.vivino.com/w/1193030
+6200805,1974597,M. Chapoutier,"Ermitage ""Vin de Paille""",1998,Dessert,Hermitage,France,4.3,429,160.5,USD,https://www.vivino.com/w/1974597
+174925258,2314909,Contini,Vernaccia di Oristano,2021,Dessert,Vernaccia di Oristano,Italy,3.8,419,21.97,USD,https://www.vivino.com/w/2314909
+173735397,1176121,Donnafugata,Ben Ryé Passito di Pantelleria,2023,Dessert,Passito di Pantelleria,Italy,4.4,415,38.89,USD,https://www.vivino.com/w/1176121
+181161047,3759769,Kracher,Red Roses,2024,Dessert,Burgenland,Austria,4.1,413,29.14,USD,https://www.vivino.com/w/3759769
+181037795,3759769,Kracher,Red Roses,2023,Dessert,Burgenland,Austria,4.1,413,29.14,USD,https://www.vivino.com/w/3759769
+7859536,1164856,Jorge Ordóñez,No. 3 Old Vines,2004,Dessert,Málaga,Spain,4.4,408,53.72,USD,https://www.vivino.com/w/1164856
+160133055,2677769,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé),2019,Dessert,Barsac,France,4.3,400,32.5,USD,https://www.vivino.com/w/2677769
+167725570,1958101,Klein Constantia,Vin de Constance (Natural Sweet),2021,Dessert,Constantia,South Africa,4.4,398,72.95,USD,https://www.vivino.com/w/1958101
+170964375,1945509,Domaine Labranche Laffont,Pacherenc du Vic-Bilh Moelleux,2022,Dessert,Pacherenc du Vic-Bilh,France,4.1,378,17.93,USD,https://www.vivino.com/w/1945509
+181931908,1235743,René Muré,Clos Saint Landelin Vendanges Tardives Gewürztraminer,2023,Dessert,Alsace Grand Cru,France,4.2,375,28.69,USD,https://www.vivino.com/w/1235743
+7153791,1913596,Oremus,Tokaji Aszú 5 Puttonyos,2010,Dessert,Tokaj,Hungary,4.5,369,44.72,USD,https://www.vivino.com/w/1913596
+28424299,16786,Château Climens,Barsac (Premier Grand Cru Classé),2015,Dessert,Barsac,France,4.5,368,95.26,USD,https://www.vivino.com/w/16786
+181985751,1727607,Girlan,Pasithea Oro Gewürztraminer,2024,Dessert,Südtirol - Alto Adige,Italy,4.4,340,39.11,USD,https://www.vivino.com/w/1727607
+162893305,1153863,Château d'Yquem,Sauternes,2020,Dessert,Sauternes,France,4.6,333,435.95,USD,https://www.vivino.com/w/1153863
+158003463,1365619,Johann Schwarz,Strohwein Zweigelt,2018,Dessert,Neusiedlersee,Austria,4.2,331,67.13,USD,https://www.vivino.com/w/1365619
+177285776,79779,Kracher,Auslese Traminer,2022,Dessert,Burgenland,Austria,3.8,320,13.45,USD,https://www.vivino.com/w/79779
+150416563,1462363,Monte del Frá,Recioto della Valpolicella Classico Lena di Mezzo,2017,Dessert,Recioto della Valpolicella,Italy,4,314,34.52,USD,https://www.vivino.com/w/1462363
+3836820,1700823,Hauller,Vendanges Tardives Gewürztraminer,2007,Dessert,Alsace,France,4.2,294,22.41,USD,https://www.vivino.com/w/1700823
+167490160,1199594,Cornarea,Tarasco Passito,2020,Dessert,Piemonte,Italy,4.1,293,43.71,USD,https://www.vivino.com/w/1199594
+163644394,2677769,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé),2020,Dessert,Barsac,France,4.2,290,27.91,USD,https://www.vivino.com/w/2677769
+167037503,1153863,Château d'Yquem,Sauternes,2021,Dessert,Sauternes,France,4.6,285,416.9,USD,https://www.vivino.com/w/1153863
+179963884,1152012,Scriani,Maddalena Recioto della Valpolicella Classico,2023,Dessert,Recioto della Valpolicella Classico,Italy,4.1,271,24.62,USD,https://www.vivino.com/w/1152012
+1413418,1173906,Didier Dagueneau (Louis-Benjamin Dagueneau),Les Jardins de Babylone Moelleux,2011,Dessert,Jurançon,France,4.5,261,446.04,USD,https://www.vivino.com/w/1173906
+168051073,79793,Kracher,Cuvée Beerenauslese,2021,Dessert,Burgenland,Austria,4.2,261,22.3,USD,https://www.vivino.com/w/79793
+175603713,2267945,Robert & Bernard Plageoles,Loin de l'Oeil,2022,Dessert,Gaillac,France,4,254,16.7,USD,https://www.vivino.com/w/2267945
+142491561,1906916,Zantho,Trockenbeerenauslese,2015,Dessert,Burgenland,Austria,4.1,248,21.18,USD,https://www.vivino.com/w/1906916
+162896255,1906916,Zantho,Trockenbeerenauslese,2019,Dessert,Burgenland,Austria,4.1,248,20.06,USD,https://www.vivino.com/w/1906916
+23547450,2249494,Cantine Leonardo da Vinci,Da Vinci Vin Santo Bianco dell'Empolese,2004,Dessert,Bianco dell'Empolese,Italy,3.7,237,67.24,USD,https://www.vivino.com/w/2249494
+181546488,1507917,Kracher,Nummer 7 Nouvelle Vague Chardonnay Trockenbeerenauslese,2023,Dessert,Burgenland,Austria,4.3,236,81.81,USD,https://www.vivino.com/w/1507917
+171868195,1958101,Klein Constantia,Vin de Constance (Natural Sweet),2022,Dessert,Constantia,South Africa,4.4,218,88.54,USD,https://www.vivino.com/w/1958101
+160046889,2013798,Fattoria di Basciano,Vin Santo del Chianti Rufina,2018,Dessert,Vin Santo del Chianti,Italy,3.9,217,21.29,USD,https://www.vivino.com/w/2013798
+167874313,1621561,Fattoria Poggio Alloro,Vin Santo del Chianti,2018,Dessert,Vin Santo del Chianti,Italy,3.9,215,24.99,USD,https://www.vivino.com/w/1621561
+30593144,1971295,Salvatore Murana,Passito di Pantelleria,1976,Dessert,Passito di Pantelleria,Italy,4,214,264.09,USD,https://www.vivino.com/w/1971295
+162906726,22224,Château Guiraud,Sauternes (Premier Grand Cru Classé),2020,Dessert,Sauternes,France,4.3,213,84.05,USD,https://www.vivino.com/w/22224
+160520384,1924099,Dario Coos,Picolit,2018,Dessert,Colli Orientali del Friuli,Italy,4.1,211,41.35,USD,https://www.vivino.com/w/1924099
+4334790,16786,Château Climens,Barsac (Premier Grand Cru Classé),2011,Dessert,Barsac,France,4.4,208,100.86,USD,https://www.vivino.com/w/16786
+183402565,1194476,Ca' de' Medici,Rubigalia Malvasia Dolce,2024,Dessert,Emilia-Romagna,Italy,3.9,208,8.41,USD,https://www.vivino.com/w/1194476
+23941962,1630081,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé),2014,Dessert,Sauternes,France,4.2,205,41.15,USD,https://www.vivino.com/w/1630081
+159802111,1174845,Château Suduiraut,Sauternes (Premier Grand Cru Classé),2019,Dessert,Sauternes,France,4.2,203,89.66,USD,https://www.vivino.com/w/1174845
+157135214,1570041,Vite Colte,La Bella Estate Moscato Passito,2018,Dessert,Piemonte,Italy,4.1,203,15.13,USD,https://www.vivino.com/w/1570041
+176379528,1489382,Conte Emo Capodilista,Donna Daria Fior d’Arancio Passito,2019,Dessert,Colli Euganei Fior d'Arancio,Italy,3.9,202,33.61,USD,https://www.vivino.com/w/1489382
+170622901,1138862,Produttori Vini Manduria,Madrigale Primitivo di Manduria Dolce Naturale,2022,Dessert,Primitivo di Manduria Dolce Naturale,Italy,3.9,194,17.93,USD,https://www.vivino.com/w/1138862
+159005623,1193651,Marcel Deiss,Alsace Grand Cru 'Altenberg de Bergheim',2018,Dessert,Alsace Grand Cru 'Altenberg de Bergheim',France,4.3,183,89.66,USD,https://www.vivino.com/w/1193651
+164942924,1406220,Sandeman,Fine Ruby Port,N.V.,Fortified,Porto,Portugal,3.9,7880,31.38,USD,https://www.vivino.com/w/1406220
+1728614,1213801,Sandeman,20 Years Old Tawny Porto,N.V.,Fortified,Porto,Portugal,4.3,4802,74.53,USD,https://www.vivino.com/w/1213801
+1511871,1219039,Dow's,Fine Ruby Port,N.V.,Fortified,Porto,Portugal,3.7,3810,41.24,USD,https://www.vivino.com/w/1219039
+3120806,1851983,Niepoort,Tawny Port,N.V.,Fortified,Porto,Portugal,3.8,3280,34.52,USD,https://www.vivino.com/w/1851983
+1474639,1221464,Niepoort,Porto 10 Years Old Tawny,N.V.,Fortified,Porto,Portugal,4,3124,60.52,USD,https://www.vivino.com/w/1221464
+27084406,3545154,Martini,Riserva Speciale Rubino Vermouth di Torino,N.V.,Fortified,Langhe,Italy,4,2763,37.66,USD,https://www.vivino.com/w/3545154
+1333217,76001,Ferreira,White Port (Branco),N.V.,Fortified,Porto,Portugal,3.8,2746,43.15,USD,https://www.vivino.com/w/76001
+1470912,81361,Quinta do Noval,Fine Ruby Port,N.V.,Fortified,Porto,Portugal,3.8,2476,44.72,USD,https://www.vivino.com/w/81361
+155610322,5965024,Sandeman,Fine White Porto,N.V.,Fortified,Porto,Portugal,3.6,2385,31.27,USD,https://www.vivino.com/w/5965024
+4899880,2211123,Quinta de Santa Eufémia,Tawny Porto,N.V.,Fortified,Porto,Portugal,3.7,1205,42.47,USD,https://www.vivino.com/w/2211123
+1918622,1435782,Lustau,Viña 25 Pedro Ximénez,N.V.,Fortified,Jerez-Xérès-Sherry,Spain,4.1,878,52.34,USD,https://www.vivino.com/w/1435782
+3576646,1987897,Quinta do Noval,Fine White Port,N.V.,Fortified,Porto,Portugal,3.7,874,42.92,USD,https://www.vivino.com/w/1987897
+1486420,80821,Emilio Hidalgo,Hidalgo Gobernador Oloroso Seco,N.V.,Fortified,Jerez-Xérès-Sherry,Spain,3.9,706,68.25,USD,https://www.vivino.com/w/80821
+9775100,2694618,Emilio Hidalgo,Pedro Ximénez CZ,N.V.,Fortified,Jerez-Xérès-Sherry,Spain,4.1,613,46.62,USD,https://www.vivino.com/w/2694618
+12989887,2474509,Bulas,Reserva Tawny Porto,N.V.,Fortified,Porto,Portugal,4,528,43.82,USD,https://www.vivino.com/w/2474509
+14447892,3023805,Giulio Cocchi,Dopo Teatro Cocchi Vermouth Amaro,N.V.,Fortified,Piemonte,Italy,4.2,363,45.95,USD,https://www.vivino.com/w/3023805
+1986808,59664,Quinta de Santa Eufémia,Fine White Porto,N.V.,Fortified,Porto,Portugal,3.6,318,42.47,USD,https://www.vivino.com/w/59664
+2086783,1492409,Jean-Luc Pasquet,Pineau des Charentes,N.V.,Fortified,Pineau des Charentes,France,4.1,318,32.44,USD,https://www.vivino.com/w/1492409
+5070958,2331058,Del Professore,Vermouth di Torino Classico,N.V.,Fortified,Vino d'Italia,Italy,4.3,281,49.2,USD,https://www.vivino.com/w/2331058
+157980642,6597319,Cantine Pellegrino,Uncle Joseph Marsala Superiore Rubino Dolce,N.V.,Fortified,Marsala,Italy,3.9,266,38.66,USD,https://www.vivino.com/w/6597319
+150072746,5175720,Quinta da Corte,10 Years Old Tawny Porto,N.V.,Fortified,Porto,Portugal,4.2,264,54.13,USD,https://www.vivino.com/w/5175720
+9979124,2710360,Belsazar,Vermouth Red,N.V.,Fortified,Baden,Germany,3.9,246,51.22,USD,https://www.vivino.com/w/2710360
+170058347,6897104,Quinta da Corte,LBV Porto,2019,Fortified,Porto,Portugal,4.1,232,40.57,USD,https://www.vivino.com/w/6897104
+163738162,8178977,Quinta da Pedra Alta,Pedra No. 3 White Port,N.V.,Fortified,Porto,Portugal,4.1,200,31.32,USD,https://www.vivino.com/w/8178977
+105038,80415,Dow's,Vintage Port,2003,Fortified,Porto,Portugal,4.3,198,201.61,USD,https://www.vivino.com/w/80415
+24842022,1137000,Quinta do Pégo,Vintage Port,2015,Fortified,Porto,Portugal,4.1,186,72.79,USD,https://www.vivino.com/w/1137000
+164060681,8276491,Del Professore,Vermouth Rosso di Torino,N.V.,Fortified,Vino d'Italia,Italy,4.3,181,44.94,USD,https://www.vivino.com/w/8276491
+163752254,8183088,Quinta da Pedra Alta,Alta No 10 Ten Year Old Tawny Port,N.V.,Fortified,Porto,Portugal,4.1,181,38.05,USD,https://www.vivino.com/w/8183088
+160151791,81371,Quinta do Noval,Late Bottled Vintage Unfiltered Port,2019,Fortified,Porto,Portugal,4.1,164,67.13,USD,https://www.vivino.com/w/81371
+157297512,6388943,Bordiga,Vermouth Rosso,N.V.,Fortified,Piemonte,Italy,4.3,162,40.57,USD,https://www.vivino.com/w/6388943
+156715212,6234005,Quinta da Corte,20 Years Old Tawny Porto,N.V.,Fortified,Porto,Portugal,4.4,152,86.29,USD,https://www.vivino.com/w/6234005
+168267084,75987,Ferreira,Late Bottled Vintage Port,2021,Fortified,Porto,Portugal,4,148,56.04,USD,https://www.vivino.com/w/75987
+146288919,4801311,Bordiga,Vermouth Bianco,N.V.,Fortified,Piemonte,Italy,4.3,130,40.57,USD,https://www.vivino.com/w/4801311
+159020649,6887131,Bulas,Ruby Reserve Porto,N.V.,Fortified,Porto,Portugal,3.4,94,43.37,USD,https://www.vivino.com/w/6887131
+142491457,4419833,Alberto Carlo,Riserva Red Vermouth,N.V.,Fortified,Piemonte,Italy,4,76,57.16,USD,https://www.vivino.com/w/4419833
+173807015,86816,Toro Albalá,Don PX Pedro Ximenez,2023,Fortified,Montilla-Moriles,Spain,4.1,55,59.4,USD,https://www.vivino.com/w/86816
+176318581,6254477,Quinta da Corte,Vintage Porto,2021,Fortified,Porto,Portugal,4.3,53,104.23,USD,https://www.vivino.com/w/6254477
+1505097,1251191,La Guita,Manzanilla,N.V.,Fortified,Jerez-Xérès-Sherry,Spain,3.4,5261,8.01,USD,https://www.vivino.com/w/1251191
+167731871,1148781,Warre's,Vintage Port,2020,Fortified,Porto,Portugal,4.4,3736,200.61,USD,https://www.vivino.com/w/1148781
+173708550,1099392,Quinta do Vesuvio,Vintage Port,2023,Fortified,Porto,Portugal,4.4,3732,91.79,USD,https://www.vivino.com/w/1099392
+170999351,1099392,Quinta do Vesuvio,Vintage Port,2022,Fortified,Porto,Portugal,4.4,3732,91.79,USD,https://www.vivino.com/w/1099392
+1353077,1170125,Lustau,Papirusa Manzanilla (Solera Reserva),N.V.,Fortified,Jerez-Xérès-Sherry,Spain,3.6,3062,12.27,USD,https://www.vivino.com/w/1170125
+1640741,1170127,Lustau,Los Arcos Dry Amontillado Sherry (Solera Reserva),N.V.,Fortified,Jerez-Xérès-Sherry,Spain,3.6,2933,25.66,USD,https://www.vivino.com/w/1170127
+1757321,1180132,W. & J. Graham's,40 Year Old Tawny Port,N.V.,Fortified,Porto,Portugal,4.6,2835,217.65,USD,https://www.vivino.com/w/1180132
+2788004,1741832,Quinta do Vallado,20 Years Old Tawny Port,N.V.,Fortified,Porto,Portugal,4.4,2782,80.69,USD,https://www.vivino.com/w/1741832
+2357108,1591326,Fonseca,Tawny Port,N.V.,Fortified,Porto,Portugal,3.7,2738,19.05,USD,https://www.vivino.com/w/1591326
+174194438,1191500,Allesverloren,Fine Old Vintage,2022,Fortified,Swartland,South Africa,4,2517,19.06,USD,https://www.vivino.com/w/1191500
+4481724,2240331,Barbadillo,Manzanilla Solear,N.V.,Fortified,Jerez-Xérès-Sherry,Spain,3.3,2065,9.47,USD,https://www.vivino.com/w/2240331
+1484036,76396,Cálem,Velhotes White Porto,N.V.,Fortified,Porto,Portugal,3.5,2028,13,USD,https://www.vivino.com/w/76396
+3725626,2034259,Niepoort,Porto Dry White,N.V.,Fortified,Porto,Portugal,3.7,1574,12.22,USD,https://www.vivino.com/w/2034259
+3252730,1154891,Andresen,Special Selection Colheita Porto,2011,Fortified,Porto,Portugal,4.2,1559,30.82,USD,https://www.vivino.com/w/1154891
+1804617,1390528,Niepoort,Porto 20 Years Old Tawny,N.V.,Fortified,Porto,Portugal,4.3,1547,84.05,USD,https://www.vivino.com/w/1390528
+1879268,1272171,Quinta de La Rosa,Tonel 12 10 Years Old Tawny Port,N.V.,Fortified,Porto,Portugal,4.1,1064,44.72,USD,https://www.vivino.com/w/1272171
+3802930,2058228,Barbeito,10 Years Old Reserva Verdelho Madeira,N.V.,Fortified,Madeira,Portugal,4.1,984,55.39,USD,https://www.vivino.com/w/2058228
+1740574,1363530,Barbeito,10 Years Old Reserve Sercial Madeira,N.V.,Fortified,Madeira,Portugal,3.9,936,55.39,USD,https://www.vivino.com/w/1363530
+174784570,1973117,D'Oliveiras,Verdelho Madeira,2005,Fortified,Madeira,Portugal,4.4,858,143.3,USD,https://www.vivino.com/w/1973117
+155772626,1973117,D'Oliveiras,Verdelho Madeira,2004,Fortified,Madeira,Portugal,4.4,858,151.73,USD,https://www.vivino.com/w/1973117
+150518599,1973117,D'Oliveiras,Verdelho Madeira,1984,Fortified,Madeira,Portugal,4.4,858,399.79,USD,https://www.vivino.com/w/1973117
+159889698,1973117,D'Oliveiras,Verdelho Madeira,1983,Fortified,Madeira,Portugal,4.4,858,402.2,USD,https://www.vivino.com/w/1973117
+170484408,1973117,D'Oliveiras,Verdelho Madeira,2007,Fortified,Madeira,Portugal,4.4,858,125.24,USD,https://www.vivino.com/w/1973117
+160446534,1973117,D'Oliveiras,Verdelho Madeira,2001,Fortified,Madeira,Portugal,4.4,858,186.65,USD,https://www.vivino.com/w/1973117
+178405702,2089846,Domaine de la Rectorie,Cuvée Thérèse Reig Banyuls,2023,Fortified,Banyuls,France,4.1,857,27.91,USD,https://www.vivino.com/w/2089846
+156746111,1204939,Quinta do Infantado,Vintage Port,2017,Fortified,Porto,Portugal,4.2,827,71.72,USD,https://www.vivino.com/w/1204939
+2035375,1170121,Lustau,Jerez-Xérès-Sherry Río Viejo Oloroso Seco Dry,N.V.,Fortified,Jerez-Xérès-Sherry,Spain,3.7,810,10.7,USD,https://www.vivino.com/w/1170121
+3028389,1167667,Cossart Gordon,5 Years Old Madeira Bual Medium Rich,N.V.,Fortified,Madeira,Portugal,4,809,29.7,USD,https://www.vivino.com/w/1167667
+1588279,1167647,Andresen,Century 10 Year Old Tawny Port,N.V.,Fortified,Porto,Portugal,4,738,30.26,USD,https://www.vivino.com/w/1167647
+166663185,1205379,Quinta de La Rosa,Vintage Port,2020,Fortified,Porto,Portugal,4.1,730,91.56,USD,https://www.vivino.com/w/1205379
+2687317,86191,Barbadillo,Manzanilla Muyfina,N.V.,Fortified,Jerez-Xérès-Sherry,Spain,3.1,726,6.28,USD,https://www.vivino.com/w/86191
+177073462,80426,Dow's,Quinta Senhora da Ribeira Vintage Port,2022,Fortified,Porto,Portugal,4.3,711,95.15,USD,https://www.vivino.com/w/80426
+3223603,1651661,Quinta do Vallado,40 Years Old Tawny Port,N.V.,Fortified,Porto,Portugal,4.5,685,140.09,USD,https://www.vivino.com/w/1651661
+3821300,2062686,Andresen,Fine Ruby Porto,N.V.,Fortified,Porto,Portugal,3.8,562,14.01,USD,https://www.vivino.com/w/2062686
+1984128,1265624,Niepoort,White Port,N.V.,Fortified,Porto,Portugal,3.7,517,20.28,USD,https://www.vivino.com/w/1265624
+3795249,1881249,De Krans,Cape Vintage Reserve,2003,Fortified,Calitzdorp,South Africa,4.1,504,39.22,USD,https://www.vivino.com/w/1881249
+174094523,5410262,Barbeito,Single Harvest Tinta Negra Madeira,2015,Fortified,Madeira,Portugal,4.1,481,40.94,USD,https://www.vivino.com/w/5410262
+2105041,1322318,Vignerons Catalans,Cuvée La Galline Banyuls Rouge,2004,Fortified,Banyuls,France,4,410,22.41,USD,https://www.vivino.com/w/1322318
+111177297,1184737,Barbeito,Sercial Madeira,1994,Fortified,Sercial Madeira,Portugal,4.2,405,275.76,USD,https://www.vivino.com/w/1184737
+2942788,1793166,Quinta de La Rosa,Extra Dry White Port,N.V.,Fortified,Porto,Portugal,3.6,388,26.67,USD,https://www.vivino.com/w/1793166
+167202594,1636879,Niepoort,Late Bottled Vintage Port,2021,Fortified,Porto,Portugal,4.1,332,14.46,USD,https://www.vivino.com/w/1636879
+1302694,1206377,Fonseca,Vintage Port,2000,Fortified,Porto,Portugal,4.4,305,100.86,USD,https://www.vivino.com/w/1206377
+1456401,8971,Niepoort,Colheita Port,2009,Fortified,Porto,Portugal,4.1,287,52.56,USD,https://www.vivino.com/w/8971
+1424889,1167673,Cossart Gordon,10 Years Old Madeira Bual Medium Rich,N.V.,Fortified,Madeira,Portugal,4.2,285,42.03,USD,https://www.vivino.com/w/1167673
+3745324,1206377,Fonseca,Vintage Port,1992,Fortified,Porto,Portugal,4.3,281,145.69,USD,https://www.vivino.com/w/1206377
+156630823,81371,Quinta do Noval,Late Bottled Vintage Unfiltered Port,2018,Fortified,Porto,Portugal,4.1,259,11.09,USD,https://www.vivino.com/w/81371
+7297528,2429348,Château Sisqueille,Rivesaltes (Doux Naturel),1950,Fortified,Rivesaltes,France,4.4,253,178.19,USD,https://www.vivino.com/w/2429348
+2378863,1598824,Delgado Zuleta,Zuleta Manzanilla,N.V.,Fortified,Jerez-Xérès-Sherry,Spain,3.3,231,6.89,USD,https://www.vivino.com/w/1598824
+170317150,9580838,Andresen,Late Bottled Vintage Unfiltered Porto,2020,Fortified,Porto,Portugal,4,221,19.61,USD,https://www.vivino.com/w/9580838
+157822903,6545113,Primitivo Collantes,Viña Matalián Blanco Semidulce,N.V.,Fortified,Jerez-Xérès-Sherry,Spain,3.9,220,11.76,USD,https://www.vivino.com/w/6545113
+105039,80415,Dow's,Vintage Port,1997,Fortified,Porto,Portugal,4.3,219,207.33,USD,https://www.vivino.com/w/80415
+163154775,1636879,Niepoort,Late Bottled Vintage Port,2020,Fortified,Porto,Portugal,4,218,27.57,USD,https://www.vivino.com/w/1636879
+160490718,1162976,Niepoort,Vintage Port,2019,Fortified,Porto,Portugal,4.5,217,111.96,USD,https://www.vivino.com/w/1162976
+1363937,1206377,Fonseca,Vintage Port,2007,Fortified,Porto,Portugal,4.3,214,78.45,USD,https://www.vivino.com/w/1206377
+4668599,2297979,Andresen,Fine White Porto,N.V.,Fortified,Porto,Portugal,3.9,211,13.45,USD,https://www.vivino.com/w/2297979
+117608079,1206377,Fonseca,Vintage Port,2016,Fortified,Porto,Portugal,4.3,208,110.95,USD,https://www.vivino.com/w/1206377
+2312022,1136945,Quinta do Vale Meão,Vintage Port,2011,Fortified,Porto,Portugal,4.4,193,100.86,USD,https://www.vivino.com/w/1136945
+1523913,1245903,Osborne,Vintage Port,1995,Fortified,Porto,Portugal,4.1,185,44.83,USD,https://www.vivino.com/w/1245903
+170529690,1919716,Quinta do Vesuvio,Capela da Quinta do Vesuvio Vintage Port,2022,Fortified,Porto,Portugal,4.5,174,312.68,USD,https://www.vivino.com/w/1919716
+1314291,1162976,Niepoort,Vintage Port,1987,Fortified,Porto,Portugal,4.5,161,223.02,USD,https://www.vivino.com/w/1162976
+169425413,10019068,Fondillón Luis XIV,Luis XIV Vermut,N.V.,Fortified,Alicante,Spain,4.2,152,22.41,USD,https://www.vivino.com/w/10019068
+3203337,1877238,D'Oliveiras,Sercial Madeira,1989,Fortified,Madeira,Portugal,4.2,149,332.36,USD,https://www.vivino.com/w/1877238
+4122923,2139376,Quinta do Vallado,Adelaide Vintage Port,2011,Fortified,Porto,Portugal,4.4,139,56.04,USD,https://www.vivino.com/w/2139376
+1292863,88352,Taylor's,Quinta de Vargellas Vintage Port,1991,Fortified,Porto,Portugal,4.4,138,72.85,USD,https://www.vivino.com/w/88352
+1242013,80040,Croft,Vintage Port,1977,Fortified,Porto,Portugal,4.3,138,117.67,USD,https://www.vivino.com/w/80040
+25706247,1973117,D'Oliveiras,Verdelho Madeira,1994,Fortified,Madeira,Portugal,4.3,126,268.54,USD,https://www.vivino.com/w/1973117
+85067635,80415,Dow's,Vintage Port,2016,Fortified,Porto,Portugal,4.4,125,151.29,USD,https://www.vivino.com/w/80415
+160844923,7360105,Quinta do Bom Dia,Fine Tawny Porto,N.V.,Fortified,Porto,Portugal,3.8,122,16.81,USD,https://www.vivino.com/w/7360105
+151264377,1183281,Quinta de La Rosa,Late Bottled Vintage Port,2017,Fortified,Porto,Portugal,4,108,19.15,USD,https://www.vivino.com/w/1183281
+4132752,2139376,Quinta do Vallado,Adelaide Vintage Port,2009,Fortified,Porto,Portugal,4.5,105,56.04,USD,https://www.vivino.com/w/2139376
+179040199,1181147,Domaine Fontanel,L'Age de Pierre Muscat de Rivesaltes,2022,Fortified,Muscat de Rivesaltes,France,3.8,102,19.28,USD,https://www.vivino.com/w/1181147
+170151355,2019580,Van Zellers,Vintage Port,2020,Fortified,Porto,Portugal,4.1,97,117.67,USD,https://www.vivino.com/w/2019580
+155913813,1451398,Barbeito,Frasqueira Verdelho Madeira,1995,Fortified,Madeira,Portugal,4.3,96,263.72,USD,https://www.vivino.com/w/1451398
+1786682,2252583,Alvear,Pedro Ximenez de Cosecha,1927,Fortified,Montilla-Moriles,Spain,3.9,93,17.71,USD,https://www.vivino.com/w/2252583
+1341126,1211753,Niepoort,Porto Secundum Vintage,2000,Fortified,Porto,Portugal,4.2,93,33.51,USD,https://www.vivino.com/w/1211753
+3926635,1212859,Quinta Vale D. Maria,Vintage Porto,2011,Fortified,Porto,Portugal,4.2,90,84.05,USD,https://www.vivino.com/w/1212859
+176004355,12034604,M. Antonio de la Riva,San Cayetano,2022,Fortified,Jerez-Xérès-Sherry,Spain,4.3,86,72.62,USD,https://www.vivino.com/w/12034604
+161010815,7402491,Otto's Athens,Vermouth,N.V.,Fortified,Wine of Greece,Greece,4.3,84,20.06,USD,https://www.vivino.com/w/7402491
+19575969,1877238,D'Oliveiras,Sercial Madeira,1977,Fortified,Madeira,Portugal,4.4,82,487.7,USD,https://www.vivino.com/w/1877238
+9336024,80426,Dow's,Quinta Senhora da Ribeira Vintage Port,2012,Fortified,Porto,Portugal,4.5,70,50.43,USD,https://www.vivino.com/w/80426
+15533555,1973117,D'Oliveiras,Verdelho Madeira,1981,Fortified,Madeira,Portugal,4.5,66,431.1,USD,https://www.vivino.com/w/1973117
+165941873,5410262,Barbeito,Single Harvest Tinta Negra Madeira,2009,Fortified,Madeira,Portugal,4,66,44.56,USD,https://www.vivino.com/w/5410262
+156145504,6088872,Burmester,Extra Selected Vintage Port,1994,Fortified,Porto,Portugal,4.3,59,72.85,USD,https://www.vivino.com/w/6088872
